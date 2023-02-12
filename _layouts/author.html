@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<p>
+  <a href="../">Home</a> > <a href="../staff">HDG Staff</a> > {{ page.name }}
+</p>
+
+<h1>{{ page.name }}</h1>
+
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<h2>Contacts</h2>
+<dt>
+  <dd>
+    <i class="fa-brands fa-github"></i>&nbsp;&nbsp;@{{ page.github }}&nbsp;&nbsp;&nbsp;&nbsp;
+    <i class="fa fa-envelope"></i>&nbsp;&nbsp;{{ page.contacts.email }}&nbsp;&nbsp;&nbsp;&nbsp;
+    <i class="fa-brands fa-discord"></i>&nbsp;&nbsp;{{ page.contacts.discord }}
+  </dd>
+</dt>
+<p></p>
+<h2>{{ page.name }}'s Blog Posts</h2>
+<dt>
+  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% for post in filtered_posts %}
+    <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
+  {% endfor %}
+</dt>
