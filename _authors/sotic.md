@@ -6,7 +6,7 @@ position: Graphic Designer / Video Editor
 github: sotic
 contacts:
   email: sotic@hasidic.dev
-  discord: sotic#8888
+  discord: Sotic#5728
 ---
 
 Brian is an experienced graphics designer and video editor in the Canadian coldfront. He's a good yid and produces fast quality work. He aspires to live in NYC one day.
