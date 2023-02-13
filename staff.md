@@ -14,7 +14,7 @@ We are (*as the name suggests*) a group of hasidic developers. Currently we have
 
 {% for author in site.authors %}
 
-## [{{ author.name }}]("/authors/{{ author.github }}")
+## [{{ author.name }}](/authors/{{ author.github }})
 
 ### **{{ author.position }}**
 
