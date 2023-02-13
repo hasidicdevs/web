@@ -6,7 +6,7 @@ position: Repository Maintainer
 github: smokeyoy
 contacts:
   email: smokeyoy@hasidic.dev
-  discord: some.user#9999
+  discord: abby!#6266
 ---
 
 Abby is a student in HS right now and learning more about open source contribution. She is a member of the robotics team and is proficient in python and C++

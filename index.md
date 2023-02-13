@@ -15,7 +15,7 @@ We use github a lot for open source collaboration on code. For that reason we de
 - [@hasidicdevs/api](https://github.com/orgs/hasidicdevs/teams/api)
 - [@hasidicdevs/graphics](https://github.com/orgs/hasidicdevs/teams/graphics)
 
-## Communicate With The [Team](staff)
+## Communicate With The Team
 - Discord Server: [Hasidic Development Group](https://discord.com/invite/mWepccFCQh)
 - Discussions: [@hdg/Discussions](https://github.com/orgs/hasidicdevs/Discussions)
 - Project Boards
