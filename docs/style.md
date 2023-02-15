@@ -7,9 +7,9 @@ title: Javascript Style Guide
 
 # [hdg]: JavaScript Style Guide() {
 
-![4482fe09d95a0be765154b9cefff5e07f7fc32ff](https://user-images.githubusercontent.com/14003326/218920003-129ce789-ba81-49d9-971a-b32894453950.png)
+![js-banner](https://user-images.githubusercontent.com/14003326/219082261-93f07dfe-1260-400a-8eff-b22c015a6cdc.jpeg)
 
-This guide is long, you can download the bundled versions of it as a [HTML file](), or [PDF]() this style guide was super long so we broke it up into smaller **"Chapters"** which you can view in the repo for this guide. We provide a copy on our site in the hopes it will help you as much as it has us. You can find a copy of the [Javascript Header](header) we use in conjunction with this guide.
+You can download the bundled versions of it as a HTML file, or PDF this style guide was super long so we broke it up into smaller **“Chapters”** which you can view in the repo for this guide. We provide a copy on our site in the hopes it will help you as much as it has us. You can find a copy of the [Javascript Header](header) we use in conjunction with this guide on our site https://hasidic.dec/style
 
 *A mostly reasonable approach to JavaScript*
 
