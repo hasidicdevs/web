@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using A Custom Domain With Github Pages"
-author: yosileyid
+author: sotic
 tags: GitHub, Guthub-Pages
 ---
 

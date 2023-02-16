@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discord Bot Base File and Setup"
-author: yosileyid
+author: sotic
 tags: Javascript, Node.js, Discord
 ---
 
