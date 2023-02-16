@@ -5,8 +5,6 @@ author: smokeyoy
 tags: npm, node.js, javascript
 ---
 
-# Publishing Packages To Node Package Manager
-
 Npm is a popular package manager for Node.js, which provides a vast range of libraries and packages that can be installed and used to enhance your projects. Creating and publishing a package on Npm is a straightforward process, and this guide will walk you through the steps to successfully publish your package on Npm.
 <!--more-->
 ## Step 1: Create your package
