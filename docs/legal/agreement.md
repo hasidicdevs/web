@@ -5,7 +5,7 @@ title: Client Agreement Form
 
 [Home](/) > [Docs](/documentation) > Legal > {{page.title}}
 
-# Web Design Services Agreement
+# Web Design Client Agreement
 
 This agreement (the “Agreement”) is made and entered into by and between **Hasidic Development Group** (“Service Provider”) and ___________________________________________ (“Client”) (collectively, the “Parties”).
 

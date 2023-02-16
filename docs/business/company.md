@@ -3,7 +3,7 @@ layout: default
 title: HDG Business Model
 ---
 
-[Home](/) > [Docs](/documentation) > Legal > {{page.title}}
+[Home](/) > [Docs](/documentation) > Business > {{page.title}}
 
 # {{page.title}}
 

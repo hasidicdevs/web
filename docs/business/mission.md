@@ -3,7 +3,7 @@ layout: default
 title: HDG Mission Statement
 ---
 
-[Home](/) > [Docs](/documentation) > Legal > {{page.title}}
+[Home](/) > [Docs](/documentation) > Business > {{page.title}}
 
 # {{page.title}}
 

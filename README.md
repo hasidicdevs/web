@@ -6,25 +6,39 @@ We are constantly updating our site with new articles and information. If you wo
 
 ## Site Map
 
-I will update this later to show better info for the pages...
-
 ```
+LEGEND: Icon       | Description                   | Example 
+        -----------|-------------------------------|----------------------------------------------------
+        |-|        |    Root file                  | https://hasidic.dev/{:filename}
+        |--\       |    Folder at the root level   | https://hasidic.dev/{:folder}
+        |--|       |    File in that folder        | https://hasidic.dev/{:folder}/{:filename}
+        |--\--\    |    Folder inside a Folder     | https://hasidic.dev/{:folder}/{:folder}
+        |--\--|    |    File inside that folder    | https://hasidic.dev/{:folder}/{:folder}/{:filename}
+        ------------------------------------------------------------------------------------------------
+
+
 |-|index                    -Homepage
 |-|documentation            -Documentation Links
 |-|services                 -Services we offer to clients
+|-|tool                     -Tool for pricing website designs --<FEATURE COMING>--
 |-|portfolio                -Portfolio Page
 |-|contact                  -Contact form to email us
-|-|staff                    -Staff page that displays our members and teams
+|-|staff                    -Staff page that displays our {:authors}
 |-|careers                  -Open jobs to refer people to
 |-|embed                    -Simple discord embed to access the chat
 |-|blog                     -Lists all posts in the \posts directory
-|--\posts                   
-|----|children-posts
-|--\authors                 -Holds team members page
-|----|smokeyoy                
-|----|sotic
-|----|yosileyid
-|--\docs                    -Holds all the docs we use
+|--\tools                   ==========================================
+|--|pricing                 -Tool for estimating website cost
+|--\json                    ==========================================
+|--|quotes.json             -A collection of quotes
+|--|tweets.json             -File that holds tweets in a list to copy
+|--\posts                   ==========================================
+|----|children-posts        -Blog posts / multiple files
+|--\authors                 ==========================================
+|----|smokeyoy              -Author page
+|----|sotic                 -Author page
+|----|yosileyid             -Author page
+|--\docs                    ==========================================
 |----|conduct
 |----|changelog
 |----|contrib
@@ -32,17 +46,16 @@ I will update this later to show better info for the pages...
 |----|pull-request
 |----|bug-report
 |----|feature-request
-|----\legal                 -Legal docs needed for a website
-|------|privacy
-|------|terms
-|------|services
-|----\business              -Business papers
-|------|business-model
-|------|business-plan
-|------|mission-statement
-|------|employment-agreement
-|------|tweets.json         -File that holds tweets in a list to copy and paste
-|----\misc
-|------|styleguide
-|------|js-template
+|--\--\legal                 =========================================
+|------|privacy              -------Typical privacy agreement
+|------|terms                -------Terms and agreements
+|------|agreement            -------Services agreement
+|--\--\business              =========================================
+|------|model                -------Business Model
+|------|plan                 -------Business Plan
+|------|mission              -------Mission Statement
+|------|employment           -------Employment Agreement
+|--\--\misc                  =========================================
+|------|styleguide           -------Javascript Styleguide
+|------|js-template          -------Header template
 ```
