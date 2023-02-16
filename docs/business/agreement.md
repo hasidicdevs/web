@@ -3,13 +3,13 @@ layout: default
 title: Employment Agreement
 ---
 
-[Home](/) > [Docs](/documentation) > Legal > {{page.title}}
+[Home](/) > [Docs](/documentation) > Business > {{page.title}}
 
-# {{page.title}}
+# Employment Agreement
 
-## JavaScript Developer
+## For Freelance Developers
 
-This Employment Agreement (the "Agreement") is made and entered into on [DATE] by and between [YOUR COMPANY NAME], a [STATE] corporation, with its principal place of business at [ADDRESS] (the "Company"), and [EMPLOYEE NAME], an individual with a mailing address at [ADDRESS] (the "Employee").
+This Employment Agreement (the "Agreement") is made and entered into on [DATE] by and between [Hasidic Development Group], a remote, open source corporation, with its principal place of business online (the "Company"), and [EMPLOYEE NAME], an individual with a mailing address at [STATE] (the "Employee").
 
 **Employment** The Company hereby employs the Employee as a web developer, and the Employee hereby accepts such employment, on the terms and conditions set forth in this Agreement.
 
