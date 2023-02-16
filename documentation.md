@@ -9,6 +9,18 @@ title: "HDG Documentation"
 
 These are the various documents we use for our projects. These are here as a handy resource that is easy to read. Templates for issues (`Bug Reports`, `Feature Requests`, and `Pull Requests`) are here as well as a header template to use for Javascript files in our projects. Just change the info to your own and use it as you need. Our header template is based on the Python style guide for header templates but we like it because it is descriptive. Our [style guidelines](docs/style) are based on the AirBNB Javascript Style Guide on Github. 
 
+## Documentation Repo
+
+These are documents we have available in our main [hdg-docs](https://github.com/hasidicdevs/hdg-docs) repository. You can copy these and use them in your own projects or simply fork the whole repo into your `docs` branch and push the change. Then presto it will be in your project too...
+
+- [Code Of Conduct](docs/conduct)
+- [Contributing](docs/contrib)
+- [Pull Request](docs/pulls)
+- [Bug Reports](docs/bugs)
+- [Feature Request](docs/feature)
+- [CHANGELOG](docs/change)
+- [LICENSE](docs/license)
+
 ## Legal
 
 For now all of our business papers are up on the website available for the public to view. We may decide to make them private in the future. You can use any of them as a basic example of forming documents and business papers needed legally for your website also.
@@ -16,7 +28,8 @@ For now all of our business papers are up on the website available for the publi
 - [Terms & Conditions](docs/legal/terms)
 - [Privacy Policy](docs/legal/privacy)
 
-### Business
+## Business
+
 These are the founding forms for our business. We are remote workers from all over North America so our papers reflect that type of business model. We keep all of our work open source as well so we include that in our agreements and legal info. You can change any of these to fit your needs.
 
 - [Business Plan](docs/business/plan)
@@ -27,18 +40,28 @@ These are the founding forms for our business. We are remote workers from all ov
 - [Articles of Incorporation:](docs/business/articles)
 - [By Laws](docs/business/bylaws)
 
+## Employee Docs
+
+These are documents potential employees of the group will need on occasion. If they want to get paid, if not then disregard these....
+
+-  [Employment Agreement](docs/employee/agreement)
+-  [Payment Terms & Conditions](docs/employee/payment)
+-  [Payment Record](docs/employee/record)
+
+## Client Docs
+
+These are documents for clients to fill out or assist in filling out during the process of proposing a web design. They wont need direct access to them so in the future we will hide them behind authentication. 
+
+- [Client Agreement Form](docs/client/agreement)
+- [Website Launch Checklist](docs/client/checklist)
+- [Website Content Worksheet](docs/client/content)
+- [Web Design Contract](docs/client/contract)
+- [Web Design Invoice](docs/client/invoice)
+- [Website Proposal](docs/client/proposal)
+
 ## Miscellaneous
+
 These are just extra documents we use in our group. We will be adding more as well as links to the PDF version where it is needed
+
 - [Style Guidelines](docs/misc/style) - This is referenced in a few places
 - [Javascript Header](docs/misc/header) - This is verbose, just change it as needed
-
-## Documentation Repo
-These are documents we have available in our main [hdg-docs](https://github.com/hasidicdevs/hdg-docs) repository. You can copy these and use them in your own projects or simply fork the whole repo into your `docs` branch and push the change. Then presto it will be in your project too...
-
-- [Code Of Conduct](docs/conduct)
-- [Contributing](docs/contrib)
-- [Pull Request](docs/pulls)
-- [Bug Reports](docs/bugs)
-- [Feature Request](docs/feature)
-- [CHANGELOG](docs/change)
-- [LICENSE](docs/license)
