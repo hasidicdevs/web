@@ -5,7 +5,7 @@ title: HDG Mission Statement
 
 [Home](/) > [Docs](/documentation) > Business > {{page.title}}
 
-# {{page.title}}
+# Mission Statement
 
 At Hasidic Development Group, our mission is to empower businesses and individuals to harness the power of the internet through innovative web development solutions.
 

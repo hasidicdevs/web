@@ -15,15 +15,17 @@ For now all of our business papers are up on the website available for the publi
 
 - [Terms & Conditions](docs/legal/terms)
 - [Privacy Policy](docs/legal/privacy)
-- [Client Agreement Form](docs/legal/service)
 
 ### Business
 These are the founding forms for our business. We are remote workers from all over North America so our papers reflect that type of business model. We keep all of our work open source as well so we include that in our agreements and legal info. You can change any of these to fit your needs.
 
+- [Business Plan](docs/business/plan)
+- [Business Model](docs/business/model)
 - [Mission Statement](docs/business/mission)
-- [Business Plan](docs/business/business)
-- [Company Model](docs/business/company)
-- [Employment Agreement](docs/business/agreement)
+- [Partnership Agreement:](docs/business/partners)
+- [Operating Agreement:](docs/business/operating)
+- [Articles of Incorporation:](docs/business/articles)
+- [By Laws](docs/business/bylaws)
 
 ## Miscellaneous
 These are just extra documents we use in our group. We will be adding more as well as links to the PDF version where it is needed
