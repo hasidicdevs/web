@@ -7,14 +7,15 @@ We are constantly updating our site with new articles and information. If you wo
 ## Site Map
 
 ```
-LEGEND: Icon       | Description                   | Example 
-        -----------|-------------------------------|----------------------------------------------------
-        |-|        |    Root file                  | https://hasidic.dev/{:filename}
-        |--\       |    Folder at the root level   | https://hasidic.dev/{:folder}
-        |--|       |    File in that folder        | https://hasidic.dev/{:folder}/{:filename}
-        |--\--\    |    Folder inside a Folder     | https://hasidic.dev/{:folder}/{:folder}
-        |--\--|    |    File inside that folder    | https://hasidic.dev/{:folder}/{:folder}/{:filename}
-        ------------------------------------------------------------------------------------------------
+LEGEND: 
+Icon       | Description                   | Example 
+-----------|-------------------------------|----------------------------------------------------
+|-|        |    Root file                  | https://hasidic.dev/{:filename}
+|--\       |    Folder at the root level   | https://hasidic.dev/{:folder}
+|--|       |    File in that folder        | https://hasidic.dev/{:folder}/{:filename}
+|--\--\    |    Folder inside a Folder     | https://hasidic.dev/{:folder}/{:folder}
+|--\--|    |    File inside that folder    | https://hasidic.dev/{:folder}/{:folder}/{:filename}
+------------------------------------------------------------------------------------------------
 
 
 |-|index                    -Homepage
