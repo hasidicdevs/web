@@ -3,7 +3,7 @@ layout: default
 title: Client Agreement Form
 ---
 
-[Home](/) > [Docs](/documentation) > Legal > {{page.title}}
+[Home](/) > [Docs](/documentation) > Client > {{page.title}}
 
 # Web Design Client Agreement
 
