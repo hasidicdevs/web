@@ -2,7 +2,7 @@
 
 <img src="assets/img/nyc.png" />
 
-We are constantly updating our site with new articles and information. If you would like to contribute to it you must be a member of the [@hasidicdevs/web](https://github.com/orgs/hasidicdevs/teams/web) team. In order to join that team you must be a known and verified member of our [discord server](https://discord.gg/KpGXAEnVnv). If you want to join up please stop by our discord chat and get to know us. If you are too shy for that and prefer to work strictly on GitHub you are not a good fit for this "company" although we do welcome you to submit issues you find related to the website, but no PRs will be accepted unless they have been reviewed and checked off for compliance.
+We are constantly updating our site with new articles and information. If you would like to [contribute](/docs/contrib.md) to it you must be a member of the [@hasidicdevs/web](https://github.com/orgs/hasidicdevs/teams/web) team. In order to join that team you must be a known and verified member of our [discord server](https://discord.gg/KpGXAEnVnv). If you want to join up please stop by our discord chat and get to know us. If you are too shy for that and prefer to work strictly on GitHub you are not a good fit for this "company" although we do welcome you to submit issues you find related to the website, but no PRs will be accepted unless they have been reviewed and checked off for compliance.
 
 ## Site Map
 
