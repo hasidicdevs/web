@@ -10,11 +10,11 @@ We are constantly updating our site with new articles and information. If you wo
 LEGEND: 
 Icon       | Description                   | Example 
 -----------|-------------------------------|----------------------------------------------------
-|-|        |    Root file                  | https://hasidic.dev/{:filename}
-|--\       |    Folder at the root level   | https://hasidic.dev/{:folder}
-|--|       |    File in that folder        | https://hasidic.dev/{:folder}/{:filename}
-|--\--\    |    Folder inside a Folder     | https://hasidic.dev/{:folder}/{:folder}
-|--\--|    |    File inside that folder    | https://hasidic.dev/{:folder}/{:folder}/{:filename}
+|-|        |    Root file                  | https://hasidic.dev/:filename
+|--\       |    Folder at the root level   | https://hasidic.dev/:folder
+|--|       |    File in that folder        | https://hasidic.dev/:folder/:filename
+|--\--\    |    Folder inside a Folder     | https://hasidic.dev/:folder/:folder
+|--\--|    |    File inside that folder    | https://hasidic.dev/:folder/:folder/:filename
 ------------------------------------------------------------------------------------------------
 
 
@@ -55,7 +55,21 @@ Icon       | Description                   | Example
 |------|model                -------Business Model
 |------|plan                 -------Business Plan
 |------|mission              -------Mission Statement
-|------|employment           -------Employment Agreement
+|------|partners             -------Partnership Agreement
+|------|articles             -------Articles of Organization 
+|------|bylaws               -------By Laws of the Org
+|------|operating            -------Operating Agreement
+|--\--\employee              =========================================
+|------|record               -------Payment Record Form
+|------|agreement            -------Employment Agreement for Ind contractor
+|------|payment              -------Payment Terms
+|--\--\client                =========================================
+|------|agreement            -------Terms & Agreements
+|------|contract             -------Web Design Contract
+|------|proposal             -------Web Design Proposal
+|------|checklist            -------Website Checklist
+|------|content              -------Website Content Worksheet
+|------|invoice              -------Web Design Invoice
 |--\--\misc                  =========================================
 |------|styleguide           -------Javascript Styleguide
 |------|js-template          -------Header template
