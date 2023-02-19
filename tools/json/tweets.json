@@ -1,5 +1,4 @@
-{
-  "tweets": [
+[
     {
       "body": "JavaScript is not just a language, it's a whole ecosystem! From package managers to testing frameworks, there are a ton of tools and resources available to make your development process easier. #JavaScript #WebDev"
     },
@@ -180,5 +179,4 @@
     {
       "body":"#HDG is on the lookout for skilled #JavaScript developers to join our team. If you're interested in working on cutting-edge technologies and building awesome products, apply today! #jobsearch"
     }
-  ]
-}
+]
