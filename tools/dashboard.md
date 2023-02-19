@@ -1,5 +1,5 @@
 ---
-layout: tools
+layout: default
 title: Internal Tools Dashboard
 ---
 
@@ -10,3 +10,9 @@ title: Internal Tools Dashboard
 ## Scripts
 
 This is a work in progress....
+
+## Other Tools 
+
+- [Pricing Tool](/tools/pricing)
+- [Domain Tool](/tools/domains)
+- [Tweet Tool](/tools/tweets)
