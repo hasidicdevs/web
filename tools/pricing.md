@@ -3,13 +3,9 @@ layout: default
 title: Website Pricing Tool
 ---
 
-[Home](/) > Tools > {{page.title}}
+[Dashboard](/tools/dashboard) > Tools > {{page.title}}
 
 # Web Design Pricing Tool
-
-[Dashboard]() > [Tools]() > Website Pricer
-
-# Internal Price Tool
 
 This simple tool will walk you through picking the details for your website, this is just a base form. Once we recieve your email we will assign a member of the sales team to call you and discuss your needs so we can get a much more detailed understanding to prepare us for development. Once this tool has been used to gather basic information on the needs of the site, then go into the script for the [content worksheet](../client/content.md)
 

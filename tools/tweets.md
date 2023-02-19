@@ -3,12 +3,10 @@ layout: default
 title: Tweet Deck
 ---
 
-[Home](/) > [Tools](/tools/index.html) > {{page.title}}
-
+[Dashboard](/tools/dashboard) > Tools > {{page.title}}
 
 **Use these tweets to target select audiences** these all have less than 120 chars so you can add a bit more to it if you like, maybe a link to your blog or something?
 
-* * *
 # Tweets
 <script>
     fetch('json/tweets.json').then(response => response.json()).then(function(key) {
