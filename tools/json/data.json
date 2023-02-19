@@ -1,0 +1,63 @@
+{
+  "example_com" : {
+    "domain"         : "example.com",
+    "status"         : "new client",
+    "name"           : "CLIENT NAME",
+    "email"          : "CLIENT@EMAIL.COM",
+    "phone_number"   : "XXX XXX XXXX",
+    "is_registered"  : false,
+    "needs_hosting"  : false,
+    "needs_emails"   : false, 
+    "add_ons" : [
+                      "Social Media Marketing", 
+                      "Blog Package",
+                      "Hosting",
+                      "Email Campaign"
+    ],
+    "address" : {
+      "street"       : "STREET_ADDRESS",
+      "city"         : "CITYNAME",
+      "state_code"   : "STATE_CODE",
+      "zip_code"     : "XXXXX"
+    }
+  },
+  "newsitename_com" : {
+    "domain"         : "newsitename.com",
+    "status"         : "completed",
+    "name"           : "Bob Smith",
+    "email"          : "bob.smith@gmail.com",
+    "phone_number"   : "555 555-5555",
+    "is_registered"  : true,
+    "needs_hosting"  : true,
+    "needs_emails"   : true, 
+    "add_ons"        : [],
+    "address" : {
+      "street"       : "123 Main St",
+      "city"         : "Somewhere",
+      "state_code"   : "CA",
+      "zip_code"     : "11233"
+    }
+  },
+  "shirthatbiz_net" : {
+    "domain"         : "shirthatbiz.net",
+    "status"         : "in progress",
+    "name"           : "Linda Smith",
+    "email"          : "linda.smith@gmail.com",
+    "phone_number"   : "332 343-5546",
+    "is_registered"  : true,
+    "needs_hosting"  : true,
+    "needs_emails"   : true, 
+    "add_ons" : [
+                      "Social Media Marketing", 
+                      "Blog Package",
+                      "Hosting",
+                      "Email Campaign"
+    ],
+    "address" : {
+      "street"        : "345 Main St",
+      "city"          : "Anywhere",
+      "state_code"    : "NY",
+      "zip_code"      : "12334"
+    }
+  }
+}
