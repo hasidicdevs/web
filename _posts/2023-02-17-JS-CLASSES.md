@@ -5,6 +5,8 @@ title: "JavaScript Classes 101: A Beginner's Guide to Object-Oriented Programmin
 tags: javascript, classes, objects, inheritance
 ---
 
+![js-classes](https://user-images.githubusercontent.com/14003326/220189706-0400e053-f1c0-477e-ba4f-62672f461c3b.png)
+
 ## Introduction
 
 JavaScript is one of the most popular programming languages in use today. It is a versatile language that is used for a variety of purposes, including web development, game development, and server-side scripting. One of the most important features of JavaScript is its support for object-oriented programming (OOP), which allows developers to create classes that represent real-world objects and encapsulate their behavior and data.
