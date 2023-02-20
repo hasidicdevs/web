@@ -2,7 +2,15 @@
 
 <img src="assets/img/nyc.png" />
 
-We are constantly updating our site with new articles and information. If you would like to [contribute](/docs/contrib.md) to it you must be a member of the [@hasidicdevs/web](https://github.com/orgs/hasidicdevs/teams/web) team. In order to join that team you must be a known and verified member of our [discord server](https://discord.gg/KpGXAEnVnv). If you want to join up please stop by our discord chat and get to know us. If you are too shy for that and prefer to work strictly on GitHub you are not a good fit for this "company" although we do welcome you to submit issues you find related to the website, but no PRs will be accepted unless they have been reviewed and checked off for compliance.
+We are constantly updating our site with new articles and information. If you would like to [contribute](/docs/contrib.md) to it you must be a member of the [@hasidicdevs/web](https://github.com/orgs/hasidicdevs/teams/web) team and sign our [Contributor License Agreement](https://hasidic.dev/docs/CLA). In order to join that team you must be a known and verified member of our [discord server](https://discord.gg/KpGXAEnVnv). If you want to join up please stop by our discord chat and get to know us. If you are too shy for that and prefer to work strictly on GitHub you are not a good fit for this "company" although we do welcome you to submit issues you find related to the website, but no PRs will be accepted unless they have been reviewed and checked off for compliance.
+
+## Contributors
+
+<a href="https://github.com/hasidicdevs/hdg-web/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=hasidicdevs/hdg-web" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
 
 ## Site Map
 
@@ -29,8 +37,12 @@ Icon       | Description                   | Example
 |-|embed                    -Simple discord embed to access the chat
 |-|blog                     -Lists all posts in the \posts directory
 |--\tools                   ==========================================
+|--|dashboard               -Employee Tool Dashboard
 |--|pricing                 -Tool for estimating website cost
+|--|domains                 -View Client Domain info
+|--|tweets                  -View the tweets in /json/tweeets.json
 |--\json                    ==========================================
+|--|data.json               -Customer "DB" for testing
 |--|quotes.json             -A collection of quotes
 |--|tweets.json             -File that holds tweets in a list to copy
 |--\posts                   ==========================================
@@ -47,6 +59,7 @@ Icon       | Description                   | Example
 |----|pull-request
 |----|bug-report
 |----|feature-request
+|----|CLA
 |--\--\legal                 =========================================
 |------|privacy              -------Typical privacy agreement
 |------|terms                -------Terms and agreements
@@ -74,3 +87,4 @@ Icon       | Description                   | Example
 |------|styleguide           -------Javascript Styleguide
 |------|js-template          -------Header template
 ```
+
