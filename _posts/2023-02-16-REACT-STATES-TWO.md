@@ -5,6 +5,8 @@ author: yosileyid
 tags  : javascript, react.js, React.states
 ---
 
+![react-js](https://user-images.githubusercontent.com/14003326/220189844-c2f20b25-25ac-4672-a831-ebf8fcec4da2.png)
+
 React is a popular JavaScript library used for building user interfaces. One of the key concepts in React is state, which is used to manage data and make components interactive. In this blog post, we'll dive into what React states are, how they work, and how they can be used to build powerful and dynamic applications.
 <!--more-->
 ## What is a React state?
