@@ -6,7 +6,11 @@ We are constantly updating our site with new articles and information. If you wo
 
 ## Contributors
 
+<a href="https://github.com/hasidicdevs/hdg-web/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=hasidicdevs/hdg-web" />
+</a>
 
+Made with [contributors-img](https://contributors-img.web.app).
 
 ## Site Map
 
