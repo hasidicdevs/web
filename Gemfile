@@ -6,6 +6,7 @@ gemspec
 # commenting below to remove dependency with "github-pages" 
 # gem "github-pages", group: :jekyll_plugins
 
+gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 

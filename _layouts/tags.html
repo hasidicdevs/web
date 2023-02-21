@@ -1,0 +1,8 @@
+{% assign tags = site.tags %}
+{% if tags.size > 0 %}
+  <ul>
+    {% for tag in tags %}
+      <li><a href="/tags/{{ tag | first }}/">{{ tag | first }}</a> ({{ tag | last | size }})</li>
+    {% endfor %}
+  </ul>
+{% endif %}

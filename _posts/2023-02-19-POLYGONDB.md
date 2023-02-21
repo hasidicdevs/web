@@ -2,7 +2,7 @@
 layout: post
 author: yosileyid
 title: "Introducing PolygonDB: A Modern and Flexible Alternative to MongoDB with Advanced Data Management Features"
-tage: json, javascript, database
+tags: [json, javascript, database]
 ---
 
 ![data-model-sql-to-json](https://user-images.githubusercontent.com/14003326/220189184-5b5a7315-4443-4d9d-a1da-cd0532fa3558.png)
