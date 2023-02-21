@@ -20,6 +20,7 @@ Our [style guidelines](docs/style) are based on the AirBNB Javascript Style Guid
 - [Feature Request](docs/feature)
 - [CHANGELOG](docs/change)
 - [LICENSE](docs/license)
+- [Contributors License Agreement](/docs/CLA)
 
 ## Client Docs
 

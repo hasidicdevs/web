@@ -3,7 +3,7 @@ layout: default
 title: Domain Tool
 ---
 
-[Dashboard](/tools/dashboard) > Domain Tool
+[Dashboard](/dashboard) > Domain Tool
 
 # {{page.title}}
 

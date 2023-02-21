@@ -3,7 +3,7 @@ layout: default
 title: Tweet Deck
 ---
 
-[Dashboard](/tools/dashboard) > Tools > {{page.title}}
+[Dashboard](/dashboard) > Tools > {{page.title}}
 
 **Use these tweets to target select audiences** these all have less than 120 chars so you can add a bit more to it if you like, maybe a link to your blog or something?
 
