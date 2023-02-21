@@ -19,6 +19,21 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
+navbar_links:
+  - title: Domain Pricing Tool
+    url: /tools/pricing
+  - title: Client Domain Tool
+    url: /tools/domains
+  - title: Documentation
+    url: /documentation
+  - title: Business Docs
+    url: /docs/business/model
+  - title: Tweet Tool
+    url: /tools/tweets
+  - title: Startup Info
+    url: /startup
+
+
 sidebar:
 
   - name: " Services"

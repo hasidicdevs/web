@@ -3,7 +3,7 @@ layout: default
 title: Website Pricing Tool
 ---
 
-[Dashboard](/tools/dashboard) > Tools > {{page.title}}
+[Dashboard](/dashboard) > Tools > {{page.title}}
 
 # Web Design Pricing Tool
 
