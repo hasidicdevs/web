@@ -16,8 +16,12 @@ baseurl: ""
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-seo-tag
   - jemoji
+
+paginate: 3
+paginate_path: "/blog/page:num/"
 
 navbar_links:
   - title: Domain Pricing Tool
@@ -63,11 +67,6 @@ sidebar:
   - name: " hasidicdevs"
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/hasidicdevs
-
-toolbar:
-  - name: "Pricing Tool"
-    icon: 
-    link: /pricing
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
