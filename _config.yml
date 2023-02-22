@@ -56,6 +56,10 @@ sidebar:
     icon: <i class="fa-solid fa-pen"></i>
     link: /blog 
 
+  - name: " Documentation"
+    icon: <i class="fa-solid fa-briefcase"></i>
+    link: /documentation
+
   - name: " Discord"
     icon: <i class="fa-brands fa-discord"></i>
     link: https://discord.gg/KpGXAEnVnv

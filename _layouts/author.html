@@ -15,9 +15,17 @@ layout: default
 <h2>Contacts</h2>
 <dt>
   <dd>
-    <i class="fa-brands fa-github"></i>&nbsp;&nbsp;@{{ page.github }}&nbsp;&nbsp;&nbsp;&nbsp;
-    <i class="fa fa-envelope"></i>&nbsp;&nbsp;{{ page.contacts.email }}&nbsp;&nbsp;&nbsp;&nbsp;
-    <i class="fa-brands fa-discord"></i>&nbsp;&nbsp;{{ page.contacts.discord }}
+    <a href="https://github.com/{{ page.contacts.github }}" target="_blank">
+      <i class="fa-brands fa-github"></i>&nbsp;&nbsp;@{{ page.contacts.github }}
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:{{ page.contacts.email }}">
+      <i class="fa fa-envelope"></i>&nbsp;&nbsp;{{ page.contacts.email }}
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/{{ page.contacts.discord }}" target="_blank">
+      <i class="fa-brands fa-discord"></i>&nbsp;&nbsp;{{ page.contacts.discord }}
+    </a>
   </dd>
 </dt>
 <p></p>

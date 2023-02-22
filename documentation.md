@@ -20,6 +20,7 @@ Our [style guidelines](docs/style) are based on the AirBNB Javascript Style Guid
 - [Feature Request](docs/feature)
 - [CHANGELOG](docs/change)
 - [LICENSE](docs/license)
+- [Contributors License Agreement](docs/CLA)
 
 ## Client Docs
 
@@ -43,6 +44,7 @@ These are just extra documents we use in our group. We will be adding more as we
 
 These are documents potential employees of the group will need on occasion. If they want to get paid, if not then disregard these....
 
--  [Payment Terms & Conditions](docs/employee/payment)
--  [Employment Agreement](docs/employee/agreement)
--  [Payment Record](docs/employee/record)
+- [Payment Terms & Conditions](docs/employee/payment)
+- [Employment Agreement](docs/employee/agreement)
+- [Payment Record](docs/employee/record)
+- [Application For Employment](docs/employee/application)

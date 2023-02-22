@@ -3,10 +3,10 @@ layout: author
 short_name: smokeyoy
 name: Abby Shanker
 position: Repository Maintainer
-github: smokeyoy
 contacts:
   email: smokeyoy@hasidic.dev
   discord: abby!#6266
+  github: smokeyoy
 ---
 
 I am a Freshman in High School (14) and I live in the Washington Metro Area. I can code well in Python and a good bit of C++ (specifically with Arduino). I am also on my HS Robotics team and we will be competing in the [FIRST Robotics Competition](https://www.firstinspires.org/) this winter.
