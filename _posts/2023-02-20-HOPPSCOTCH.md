@@ -2,7 +2,7 @@
 layout: post
 author: yosileyid
 title: "Creating a new API using Hoppscotch"
-tags: [json, javascript, database]
+tags: json, javascript, database
 ---
 
 ![Screenshot 2023-02-20 1 34 24 PM](https://user-images.githubusercontent.com/14003326/220187616-be05ecff-f465-4d80-8845-3c449ec93ef9.png)
