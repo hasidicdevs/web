@@ -4,7 +4,7 @@ title:  "React States"
 summary: "Best Practices for Managing State in Your Applications"
 author: yosileyid
 date: '2023-02-17'
-category: ['javascript', 'react.js', 'React', 'states']
+category: ['javascript', 'react']
 tags: javascript, react.js, React.states
 thumbnail: /assets/img/posts/react-js.png
 keywords: javascript, react.js, React.states

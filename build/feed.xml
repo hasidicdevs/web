@@ -5,8 +5,8 @@
     <description>Welcome to the Hasidic Development Group website, we hope you find everything you need...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2023 14:21:15 -0500</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2023 14:21:15 -0500</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2023 15:28:05 -0500</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2023 15:28:05 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
 
     
@@ -1832,12 +1832,6 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
     &lt;a name=&quot;jekyll&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/creating-a-gemfile/&quot;&gt;Creating a Gemfile for a Jekyll Plugin&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-    &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
@@ -1887,21 +1881,6 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#sample_category&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/sample_category&quot;&gt;sample_category&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;sample_category&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
     &lt;div id=&quot;#github&quot;&gt;&lt;/div&gt;
     &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/github&quot;&gt;github&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;github&quot;&gt;&lt;/a&gt;
@@ -1935,51 +1914,6 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#branches&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/branches&quot;&gt;branches&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;branches&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/how-to-name-your-branches/&quot;&gt;How To Name Your Branches - The Method I Use&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#gh-branch&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/gh-branch&quot;&gt;gh-branch&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;gh-branch&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/how-to-name-your-branches/&quot;&gt;How To Name Your Branches - The Method I Use&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#custom domain&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/custom domain&quot;&gt;custom domain&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;custom domain&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/using-a-custom-domain/&quot;&gt;Using A Custom Domain With Github Pages&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
     &lt;div id=&quot;#gh-pages&quot;&gt;&lt;/div&gt;
     &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/gh-pages&quot;&gt;gh-pages&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;gh-pages&quot;&gt;&lt;/a&gt;
@@ -1992,36 +1926,6 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
     
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/using-a-custom-domain/&quot;&gt;Using A Custom Domain With Github Pages&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#git&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/git&quot;&gt;git&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;git&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/good-for-beginners/&quot;&gt;Projects That Are Good For Beginners&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#open source&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/open source&quot;&gt;open source&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;open source&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/good-for-beginners/&quot;&gt;Projects That Are Good For Beginners&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -2061,9 +1965,9 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#Education&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/Education&quot;&gt;Education&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;Education&quot;&gt;&lt;/a&gt;
+    &lt;div id=&quot;#education&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/education&quot;&gt;education&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;education&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/freecodecamp-current-course/&quot;&gt;FreeCodeCamp Current Course Curriculem&lt;/a&gt;&lt;/h6&gt;
@@ -2076,24 +1980,9 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#FreeCodeCamp&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/FreeCodeCamp&quot;&gt;FreeCodeCamp&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;FreeCodeCamp&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/freecodecamp-current-course/&quot;&gt;FreeCodeCamp Current Course Curriculem&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#NPM&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/NPM&quot;&gt;NPM&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;NPM&quot;&gt;&lt;/a&gt;
+    &lt;div id=&quot;#npm&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/npm&quot;&gt;npm&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;npm&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/publish-to-npm/&quot;&gt;Publish Your Own NPM Package&lt;/a&gt;&lt;/h6&gt;
@@ -2106,33 +1995,12 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#Node.js&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/Node.js&quot;&gt;Node.js&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;Node.js&quot;&gt;&lt;/a&gt;
+    &lt;div id=&quot;#nodejs&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/nodejs&quot;&gt;nodejs&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;nodejs&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/publish-to-npm/&quot;&gt;Publish Your Own NPM Package&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#json&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/json&quot;&gt;json&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;json&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/creating-an-api-using-hoppscotch/&quot;&gt;Creating a new API using Hoppscotch&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/polygondb-modern-and-flexible/&quot;&gt;Introducing PolygonDB&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -2187,46 +2055,16 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#database&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/database&quot;&gt;database&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;database&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/creating-an-api-using-hoppscotch/&quot;&gt;Creating a new API using Hoppscotch&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/polygondb-modern-and-flexible/&quot;&gt;Introducing PolygonDB&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
     &lt;div id=&quot;#react&quot;&gt;&lt;/div&gt;
     &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/react&quot;&gt;react&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;react&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/using-react-states/&quot;&gt;Using React States&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blog/react-states/&quot;&gt;React States&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#reactjs&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/reactjs&quot;&gt;reactjs&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;reactjs&quot;&gt;&lt;/a&gt;
-     
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/using-react-states/&quot;&gt;Using React States&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
@@ -2238,138 +2076,18 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;div class=&quot;category-box&quot;&gt;
     
-    &lt;div id=&quot;#nodejs&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/nodejs&quot;&gt;nodejs&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;nodejs&quot;&gt;&lt;/a&gt;
+    &lt;div id=&quot;#web&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/web&quot;&gt;web&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;web&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/using-react-states/&quot;&gt;Using React States&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blog/client-v-server-scripting/&quot;&gt;Client-Side vs. Server-Side Scripting&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#dynamic website&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/dynamic website&quot;&gt;dynamic website&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;dynamic website&quot;&gt;&lt;/a&gt;
-     
     &lt;article class=&quot;center&quot;&gt;
       &lt;h6&gt;&lt;a href=&quot;/blog/what-is-a-dynamic-website/&quot;&gt;What Is A Dynamic Website&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#react.js&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/react.js&quot;&gt;react.js&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;react.js&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/react-states/&quot;&gt;React States&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#React&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/React&quot;&gt;React&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;React&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/react-states/&quot;&gt;React States&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#states&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/states&quot;&gt;states&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;states&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/react-states/&quot;&gt;React States&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#classes&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/classes&quot;&gt;classes&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;classes&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/mastering-oop-in-javascript/&quot;&gt;Mastering Object-Oriented Programming in JavaScript&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/javascript-classes-101/&quot;&gt;JavaScript Classes 101&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#objects&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/objects&quot;&gt;objects&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;objects&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/javascript-classes-101/&quot;&gt;JavaScript Classes 101&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#inheritance&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/inheritance&quot;&gt;inheritance&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;inheritance&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/javascript-classes-101/&quot;&gt;JavaScript Classes 101&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#oop&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/oop&quot;&gt;oop&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;oop&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/mastering-oop-in-javascript/&quot;&gt;Mastering Object-Oriented Programming in JavaScript&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -2392,81 +2110,6 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 
   &lt;/div&gt;
 
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#gemfile&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/gemfile&quot;&gt;gemfile&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;gemfile&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/creating-a-gemfile/&quot;&gt;Creating a Gemfile for a Jekyll Plugin&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#client side&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/client side&quot;&gt;client side&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;client side&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/client-v-server-scripting/&quot;&gt;Client-Side vs. Server-Side Scripting&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#server side&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/server side&quot;&gt;server side&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;server side&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/client-v-server-scripting/&quot;&gt;Client-Side vs. Server-Side Scripting&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#scripting&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/scripting&quot;&gt;scripting&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;scripting&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/client-v-server-scripting/&quot;&gt;Client-Side vs. Server-Side Scripting&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;category-box&quot;&gt;
-    
-    &lt;div id=&quot;#server&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/server&quot;&gt;server&lt;/a&gt;&lt;/h4&gt;
-    &lt;a name=&quot;server&quot;&gt;&lt;/a&gt;
-     
-    &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/client-v-server-scripting/&quot;&gt;Client-Side vs. Server-Side Scripting&lt;/a&gt;&lt;/h6&gt;
-    &lt;/article&gt;
-
-
-    
-
-  &lt;/div&gt;
-
 &lt;/div&gt;
 
 </description>
@@ -2476,7 +2119,58 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
       
     
       
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : Guides &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;12 Jan 2023&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;/blog/discord-bot-base/&quot;&gt;Discord Bot Base Files And Setup&lt;/a&gt;&lt;/li&gt;
+
+&lt;/div&gt;
+</description>
+            <link>http://localhost:4000/blog/categories/bot/</link>
+          </item>
+        
+      
     
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : Guides &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;12 Jan 2023&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;/blog/discord-bot-base/&quot;&gt;Discord Bot Base Files And Setup&lt;/a&gt;&lt;/li&gt;
+
+&lt;/div&gt;
+</description>
+            <link>http://localhost:4000/blog/categories/discord/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : Guides &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;18 Jan 2023&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;/blog/freecodecamp-current-course/&quot;&gt;FreeCodeCamp Current Course Curriculem&lt;/a&gt;&lt;/li&gt;
+
+&lt;/div&gt;
+</description>
+            <link>http://localhost:4000/blog/categories/education/</link>
+          </item>
+        
       
     
       
@@ -2492,6 +2186,38 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
         
       
     
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.gh-pages %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/gh-pages/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.github %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/github/</link>
+          </item>
+        
       
     
       
@@ -2698,6 +2424,22 @@ You can visit the blog using [http://your-github-username.github.io](http://your
       
         
           <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.javascript %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/javascript/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
             <title>Jekyll</title>
             <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
 
@@ -2713,6 +2455,38 @@ You can visit the blog using [http://your-github-username.github.io](http://your
     
       
     
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.nodejs %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/nodejs/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.npm %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/npm/</link>
+          </item>
+        
       
     
       
@@ -2838,11 +2612,27 @@ We create rich web applications and websites so they are listed separately. We u
             <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
 
 &lt;div class=&quot;card&quot;&gt;
-{% for post in site.categories.sample_category %}
+{% for post in site.categories.react %}
  &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
 {% endfor %}
 &lt;/div&gt;</description>
-            <link>http://localhost:4000/blog/categories/sample_category/</link>
+            <link>http://localhost:4000/blog/categories/react/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.ruby %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/ruby/</link>
           </item>
         
       
@@ -6949,6 +6739,22 @@ A *dynamic web page* is a web page whose construction is controlled by an applic
 
 An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document via JavaScript APIs such as XMLHttpRequest and Fetch when different content is to be shown. This therefore allows users to use websites without loading whole new pages from the server, which can result in performance gains and a more dynamic experience, with some tradeoff disadvantages such as SEO, more effort required to maintain state, implement navigation, and do meaningful performance monitoring.</description>
             <link>http://localhost:4000/types/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.web %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>http://localhost:4000/blog/categories/web/</link>
           </item>
         
       

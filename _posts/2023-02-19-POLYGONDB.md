@@ -4,7 +4,7 @@ title:  "Introducing PolygonDB"
 summary: "A Modern and Flexible Alternative to MongoDB with Advanced Data Management Features"
 author: yosileyid
 date: '2023-01-25'
-category: [json, javascript, database]
+category: [javascript]
 tags: json, javascript, database
 thumbnail: /assets/img/posts/polygondb.png
 keywords: json, javascript, database

@@ -4,7 +4,7 @@ title:  "Client-Side vs. Server-Side Scripting"
 summary: "Understanding the Differences for Web Development"
 author: yosileyid
 date: '2023-02-21'
-category: ['client side', 'server side', 'scripting', 'server']
+category: ['web']
 tags: client side, server side, scripting, server
 thumbnail: /assets/img/posts/static.png
 keywords: client side, server side, scripting, server

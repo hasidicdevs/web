@@ -4,7 +4,7 @@ title:  "Publish Your Own NPM Package"
 summary: "Learn how to create your won custom NPM package and publish it for others to use in thei software."
 author: smokeyoy
 date: '2023-01-23'
-category: ['NPM', 'Node.js']
+category: ['npm', 'nodejs']
 tags: NPM, Node.js
 thumbnail: /assets/img/posts/what-is-npm.png
 keywords: NPM, Node.js

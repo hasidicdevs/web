@@ -4,7 +4,7 @@ title:  "FreeCodeCamp Current Course Curriculem"
 summary: "These are the current freecodecamp course currently 2023"
 author: yosileyid
 date: '2023-01-18'
-category: ['Education', 'FreeCodeCamp']
+category: ['education']
 tags: Education, FreeCodeCamp
 thumbnail: /assets/img/posts/freecodecamp-head.png
 keywords: education, freecodecamp
