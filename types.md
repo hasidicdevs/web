@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Types of Websites
+permalink: /types/
 ---
-
-[Home](/) > [Services](/services) > Websites > {{page.title}}
 
 # Types Of Websites
 

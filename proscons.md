@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Pros & Cons
+permalink: /proscons/
 ---
-
-[Home](/) > [Services](/services) > Websites > {{page.title}}
 
 # Pros & Cons 
 ## Hiring A Professional

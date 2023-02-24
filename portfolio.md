@@ -1,15 +1,14 @@
 ---
-layout: default
+layout: page
 title: HDG Portfolio
+permalink: /portfolio/
 ---
-
-[Home](../) > {{ page.title }}
 
 # Group Development Portfolio
 
-We work as a team to design beautiful websites and graphics. It doesn't work for everyone, but it is how we decided to work. We have done work in the past for the previous sites. Testimonials coming in the future. Each of these projects was headed by a member of our [team](staff) please send an email if you need help finding anything. 
+We work as a team to design beautiful websites and graphics. It doesn't work for everyone, but it is how we decided to work. We have done work in the past for the previous sites. Testimonials coming in the future. Each of these projects was headed by a member of our [team](/staff) please send an email if you need help finding anything. 
 
-![Screenshot 2023-02-11 2 19 39 PM](https://user-images.githubusercontent.com/14003326/218277127-c7dfffd7-b514-4d90-9498-e6d3b654fbce.png)
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/218277127-c7dfffd7-b514-4d90-9498-e6d3b654fbce.png" />
 
 <h2>Websites</h2>
 
@@ -53,7 +52,7 @@ We work as a team to design beautiful websites and graphics. It doesn't work for
 <dl>
 
 <p></p>
-<img src="https://user-images.githubusercontent.com/14003326/218279866-e04c9250-2bba-48fa-8ed7-b0581ceca369.png" />
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/218279866-e04c9250-2bba-48fa-8ed7-b0581ceca369.png" />
 
 <h2>Applications</h2>
 

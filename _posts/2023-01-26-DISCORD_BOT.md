@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "Discord Bot Base File and Setup"
-author: sotic
-tags: Javascript, Node.js, Discord
+title:  "Discord Bot Base Files And Setup"
+summary: "Learn how to set up a discord bot using the hdg-bot package"
+author: yosileyid
+date: '2023-01-12'
+category: ['discord', 'bot']
+tags: Discord, Bot
+thumbnail: /assets/img/posts/bot-discord.png
+keywords: bot, discord
+usemathjax: false
+permalink: /blog/discord-bot-base/
 ---
 
 This is just a simple post to help you get your Discord bot setup and running in a matter of seconds. If you run into any issues feel free to raise an "Issue" and I can assist you. This is current as of February 1, 2023. Your first step is to create a new directory and name it whatever you want your repo to be called on GitHub. Open your favorite code editor and create a new file named "index.js" and create a ".env", and "package.json" file. Once you have those set up go ahead and copy the contents of those two files from here and paste them into your local files. 

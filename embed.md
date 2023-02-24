@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Embed
+permalink: /embed/
 ---
-
-[Home](/) > {{page.title}}
 
 # {{page.title}}
 

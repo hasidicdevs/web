@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "FreeCodeCamp Current Course List and Projects (February 2023)"
+title:  "FreeCodeCamp Current Course Curriculem"
+summary: "These are the current freecodecamp course currently 2023"
 author: yosileyid
-tags: Education, Self-Improvement
+date: '2023-01-18'
+category: ['Education', 'FreeCodeCamp']
+tags: Education, FreeCodeCamp
+thumbnail: /assets/img/posts/freecodecamp-head.png
+keywords: education, freecodecamp
+usemathjax: false
+permalink: /blog/freecodecamp-current-course/
 ---
 
 These are the projects needed to complete the @FreeCodeCamp coursework. Starting with the Responsive Web course. I decided to use the github to host my projects so people can see them. Some of them need to be runnable, so I had to use other services to host those on. The sections that are empty are not started yet, I will update these as I earn them. If you would like access to the certificates, reach out to me via email or on discord, both are listed on the front page of my profile. <!--more-->You need to have a github account to access them. I am currently working through the sections on FCC and the information for the projects needed to pass the sections isn't fully informative I just wanted to have something in those sections. I will update it as I get to them. 

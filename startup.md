@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+permalink: /startup/
 title: HDG Startup & Launch
 ---
-
-[Home](/) > {{page.title}}
 
 # {{page.title}}
 

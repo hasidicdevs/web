@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  Publishing Packages To Node Package Manager
+title:  "Publish Your Own NPM Package"
+summary: "Learn how to create your won custom NPM package and publish it for others to use in thei software."
 author: smokeyoy
-tags: npm, node.js, javascript
+date: '2023-01-23'
+category: ['NPM', 'Node.js']
+tags: NPM, Node.js
+thumbnail: /assets/img/posts/what-is-npm.png
+keywords: NPM, Node.js
+usemathjax: false
+permalink: /blog/publish-to-npm/
 ---
 
 Npm is a popular package manager for Node.js, which provides a vast range of libraries and packages that can be installed and used to enhance your projects. Creating and publishing a package on Npm is a straightforward process, and this guide will walk you through the steps to successfully publish your package on Npm.

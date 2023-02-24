@@ -1,38 +1,18 @@
 ---
 layout: default
 ---
+<div class="card">
+        <div class="col-md-8 offset-md-2 offset-md-right">
+                <h1>Author : {{ page.name }}</h1>
+                <img src="{{site.url}}{{site.baseurl}}/assets/img/authors/{{ page.avatar}}" class="author-profile-img" />
+                <p>{{ page.bio }}</p>
 
-<p>
-  <a href="../">Home</a> > <a href="../staff">HDG Staff</a> > {{ page.name }}
-</p>
-
-<h1>{{ page.name }}</h1>
-
-<h2>{{ page.position }}</h2>
-
-{{ content }}
-
-<h2>Contacts</h2>
-<dt>
-  <dd>
-    <a href="https://github.com/{{ page.contacts.github }}" target="_blank">
-      <i class="fa-brands fa-github"></i>&nbsp;&nbsp;@{{ page.contacts.github }}
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:{{ page.contacts.email }}">
-      <i class="fa fa-envelope"></i>&nbsp;&nbsp;{{ page.contacts.email }}
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/{{ page.contacts.discord }}" target="_blank">
-      <i class="fa-brands fa-discord"></i>&nbsp;&nbsp;{{ page.contacts.discord }}
-    </a>
-  </dd>
-</dt>
-<p></p>
-<h2>{{ page.name }}'s Blog Posts</h2>
-<dt>
-  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-  {% for post in filtered_posts %}
-    <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
-  {% endfor %}
-</dt>
+                <h2>Post by this author</h2>
+                {%- assign author_posts = site.posts
+                  | where: "author", page.username
+                -%}
+                {%- for post in author_posts -%}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {%- endfor -%}
+         </div>
+    </div>

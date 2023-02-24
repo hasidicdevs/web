@@ -1,11 +1,17 @@
 ---
 layout: post
-title : "React States: Best Practices for Managing State in Your Applications"
+title:  "React States"
+summary: "Best Practices for Managing State in Your Applications"
 author: yosileyid
-tags  : javascript, react.js, React.states
+date: '2023-02-17'
+category: ['javascript', 'react.js', 'React', 'states']
+tags: javascript, react.js, React.states
+thumbnail: /assets/img/posts/react-js.png
+keywords: javascript, react.js, React.states
+usemathjax: false
+permalink: /blog/react-states/
 ---
 
-![react-js](https://user-images.githubusercontent.com/14003326/220189844-c2f20b25-25ac-4672-a831-ebf8fcec4da2.png)
 
 React is a popular JavaScript library used for building user interfaces. One of the key concepts in React is state, which is used to manage data and make components interactive. In this blog post, we'll dive into what React states are, how they work, and how they can be used to build powerful and dynamic applications.
 <!--more-->
