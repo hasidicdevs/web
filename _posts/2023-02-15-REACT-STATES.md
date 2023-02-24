@@ -4,7 +4,7 @@ title:  "Using React States"
 summary: "Learning how to use react states in your application"
 author: smokeyoy
 date: '2023-02-15'
-category: ['react', 'reactjs', 'nodejs', 'javascript']
+category: ['react', 'javascript']
 tags: react, reactjs, nodejs, javascript
 thumbnail: /assets/img/posts/react-js.png
 keywords: react, reactjs, nodejs, javascript

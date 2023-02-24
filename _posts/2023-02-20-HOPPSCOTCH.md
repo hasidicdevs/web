@@ -4,7 +4,7 @@ title:  "Creating a new API using Hoppscotch"
 summary: "A Step-by-Step Guide"
 author: yosileyid
 date: '2023-02-20'
-category: ['json', 'javascript', 'database']
+category: ['javascript']
 tags: json, javascript, database
 thumbnail: /assets/img/posts/polygondb.png
 keywords: json, javascript, database

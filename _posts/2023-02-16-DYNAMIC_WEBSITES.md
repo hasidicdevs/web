@@ -4,7 +4,7 @@ title:  "What Is A Dynamic Website"
 summary: "Learning the difference between static and dynamic websites"
 author: yosileyid
 date: '2023-02-16'
-category: ['dynamic website']
+category: ['web']
 tags: dynamic website
 thumbnail: /assets/img/posts/static.png
 keywords: dynamic website

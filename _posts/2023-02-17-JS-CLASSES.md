@@ -4,7 +4,7 @@ title:  "JavaScript Classes 101"
 summary: "A Beginner's Guide to Object-Oriented Programming"
 author: yosileyid
 date: '2023-02-17'
-category: ['javascript', 'classes', 'objects', 'inheritance']
+category: ['javascript']
 tags: javascript, classes, objects, inheritance
 thumbnail: /assets/img/posts/js-classes.png
 keywords: javascript, classes, objects, inheritance

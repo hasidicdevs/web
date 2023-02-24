@@ -4,7 +4,7 @@ title:  "Using A Custom Domain With Github Pages"
 summary: "Learn how to set up a custom domain in github pages settings"
 author: SoticOfficial
 date: '2022-02-02'
-category: ['github','custom domain', 'gh-pages']
+category: ['github', 'gh-pages']
 tags: GitHub, Guthub-Pages, Custom Domains
 thumbnail: /assets/img/posts/code.jpg
 keywords: git, github, domains
