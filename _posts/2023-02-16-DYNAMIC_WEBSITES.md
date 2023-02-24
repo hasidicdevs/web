@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "What Is A Dynamic Website?"
+title:  "What Is A Dynamic Website"
+summary: "Learning the difference between static and dynamic websites"
 author: yosileyid
+date: '2023-02-16'
+category: ['dynamic website']
 tags: dynamic website
+thumbnail: /assets/img/posts/static.png
+keywords: dynamic website
+usemathjax: false
+permalink: /blog/what-is-a-dynamic-website/
 ---
+
 
 In today's digital world, a website is no longer just an online brochure or an information repository. It has become a medium for businesses and individuals to interact with their customers, showcase their products and services, and create an online presence that can help them reach a wider audience. With the advent of dynamic websites, the way websites are created and managed has changed significantly. In this blog post, we will explore what a dynamic website is, how it works, and what are its benefits.
 <!--more-->

@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 title: Web Design Services
+permalink: /services/
 ---
-
-[Home](/) > [Docs](/documentation) > {{page.title}}
 
 # {{page.title}}
 
-<img src="https://user-images.githubusercontent.com/14003326/218242012-71a0dd3f-768f-43fa-a774-5e05aed21428.png" width="100%" />
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/218242012-71a0dd3f-768f-43fa-a774-5e05aed21428.png" />
 
 When it comes time to design a website for your group, business, online shop or whatever your need is there are multiple factors to consider. Let us help walk you through the process of buying the domain name, designing the site and launching it. We have tried to include all the information we need to design you a robust user experience on your own website. When you are ready to go through the process of describing what you need for your site, send us an email to [github@hasidic.dev](mailto:github@hasidic.dev)
 
@@ -15,14 +14,14 @@ When it comes time to design a website for your group, business, online shop or 
 
 ### Website Design
 
-Pricing your website begins with deciding on what type of site you need. Whether it be a [SPA](#spa---single-page-application) (like an **extension** for a browser, a **bot** for your website or discord server, or a **web app**), a [static website](#responsive-web-design), or a [dynamic](#dynamic-website-design) one, we want to keep the cost to a minimum and also provide you with an amazing website that will turn into profit for you and your business. It is too difficult to really determine the pricing of your site on a web page, but in general it will cost somewhere between $500 (for a simple static 5 page website with media) up to $5,000 and sometimes even [more](#pros--cons-hiring-a-professional) depending on the amount of work involved. 
+Pricing your website begins with deciding on what type of site you need. Whether it be a SPA (like an **extension** for a browser, a **bot** for your website or discord server, or a **web app**), a static website, or a dynamic one, we want to keep the cost to a minimum and also provide you with an amazing website that will turn into profit for you and your business. It is too difficult to really determine the pricing of your site on a web page, but in general it will cost somewhere between $500 (for a simple static 5 page website with media) up to $5,000 and sometimes even more depending on the amount of work involved. 
 
 - [Types Of Websites](/types)
 - [Pros & Cons: Hiring A Professional](/proscons)
 
 **Design Flow:** Along with your design package you will recieve a link to the developers dashboard tracker that will show you in real time how much work has been done on your site. We will also email you daily with an update and screenshots of how it is going. To start the process get in touch with us today by filling out our [contact form](/contact)
 
-![get-more-upsells-blog](https://user-images.githubusercontent.com/14003326/220485683-16f10d7a-1096-400b-be96-e9424ebc13fc.jpg)
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/220485683-16f10d7a-1096-400b-be96-e9424ebc13fc.jpg" />
 
 ## Add-On Packages
 After you have designed and launched your website you may need additional services. We offer the following packages conveniently for you.

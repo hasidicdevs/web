@@ -1,0 +1,68 @@
+# EXAMPLE
+#exampleUser:
+#   name: Example User
+#   username: exampleUser
+#   site: http://johndoe.com
+#   avatar: johndoe.png
+#   bio: "Hi I a John, a Web Developer and Designer."
+#   email: mail@johndoe.com
+#   social:
+#      - title: "github"
+#        url: "https://github.com/johndoe"
+#      - title: "linkedin"
+#        url: "https://www.linkedin.com/in/johndoe"
+#      - title: "youtube"
+#        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+#      - title: "facebook"
+#        url: "https://www.facebook.com/johndoe"
+#      - title: "twitter"
+#        url: "https://www.twitter.com/johndoe"
+#      - title: "behance"
+#        url: "https://behance.com/johndoe"
+#      - title: "instagram"
+#        url: "https://instagram.com/johndoe"
+#      - title: "medium"
+#        url: "https://medium.com/johndoe"
+#      - title: "telegram"
+#        url: "https://telegram.com/johndoe"
+#      - title: "dribbble"
+#        url: "https://dribbble.com/johndoe"
+#      - title: "flickr"
+#        url: "https://flickr.com/johndoe"
+# Add Authors here
+sotic:
+   name: Liam Sotic
+   username: sotic
+   site: http://github.com/SoticOfficial
+   avatar: johndoe.png
+   bio: "Hi I a Liam, a graphic designer."
+   email: sotic@hasidic.dev
+   social:
+      - title: "github"
+        url: "https://github.com/SoticOfficial"
+      - title: "twitter"
+        url: "https://www.twitter.com/SoticOfficial"
+      
+smokeyoy:
+   name: Abby Shanker
+   username: smokeyoy
+   site: https://smokeyoy.com
+   avatar: smokeyoy.png
+   bio: "HS Student mentoring with the company"
+   email: smokeyoy@hasidic.dev
+   social:
+      - title: "github"
+        url: "https://github.com/smokeyoy"
+
+yosileyid:
+   name: Yosi Leyid
+   username: yosileyid
+   site: https://hasidic.dev
+   avatar: yosi.jpeg
+   bio: "Full Stack Web Developer, based in Queens, NY"
+   email: yosi@hasidic.dev
+   social:
+      - title: "github"
+        url: "https://github.com/yosileyid"
+      - title: "twitter"
+        url: "https://twitter.com/hasidicdevs"

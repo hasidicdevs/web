@@ -1,11 +1,16 @@
 ---
 layout: post
+title:  "Creating a new API using Hoppscotch"
+summary: "A Step-by-Step Guide"
 author: yosileyid
-title: "Creating a new API using Hoppscotch"
+date: '2023-02-20'
+category: ['json', 'javascript', 'database']
 tags: json, javascript, database
+thumbnail: /assets/img/posts/polygondb.png
+keywords: json, javascript, database
+usemathjax: false
+permalink: /blog/creating-an-api-using-hoppscotch/
 ---
-
-![Screenshot 2023-02-20 1 34 24 PM](https://user-images.githubusercontent.com/14003326/220187616-be05ecff-f465-4d80-8845-3c449ec93ef9.png)
 
 Creating a new API can be a complex process, involving many different steps and technologies. However, with the right platform, this process can be made much simpler. Hoppscotch is an open-source API development platform that simplifies the entire API development process, allowing developers to create, test, and document APIs quickly and easily.
 <!--more-->

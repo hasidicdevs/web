@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Hasidic Development Group
+layout: page
+title: Hasidic Development Group Staff
+permalink: /staff/
 ---
-
-[Home](../) > {{ page.title }}
 
 # HDG (חד"ג)
 
@@ -13,20 +12,20 @@ We are (*as the name suggests*) a group of hasidic developers, although some of 
 
 Membership begins with joining our discord server and getting to know us, then if you decide you would like to join and work with us you simply submit an application in the #joining-hdg channel. One of the members of the @hdg/hr team will reach out to you and invite you into a #interview room where you go through the process. If you are selected to be a member of our company we will assign you roles in discord and invite you to the repo and teams on github.
 
-![react-js](https://user-images.githubusercontent.com/14003326/220189844-c2f20b25-25ac-4672-a831-ebf8fcec4da2.png)
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/220189844-c2f20b25-25ac-4672-a831-ebf8fcec4da2.png" />
 
 ## Team Members
 {% for author in site.authors %}
 
-### [{{ author.name }}](/authors/{{ author.contacts.github }})
+### [{{ author.name }}](/blog/authors/{{ author.username  }})
 
 #### **{{ author.position }}**
 
-> {{ author.content }}
+{{ author.bio }}
 
 {% endfor %}
 
-![1623147132038](https://user-images.githubusercontent.com/14003326/220488657-6c08a7be-5490-498f-ba7c-8138cf2cd22b.jpeg)  
+<img class="img-fluid" src="https://user-images.githubusercontent.com/14003326/220488657-6c08a7be-5490-498f-ba7c-8138cf2cd22b.jpeg" />  
 
 ## GitHub Teams
 

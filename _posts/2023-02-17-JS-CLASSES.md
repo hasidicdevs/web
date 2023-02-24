@@ -1,11 +1,16 @@
 ---
 layout: post
+title:  "JavaScript Classes 101"
+summary: "A Beginner's Guide to Object-Oriented Programming"
 author: yosileyid
-title: "JavaScript Classes 101: A Beginner's Guide to Object-Oriented Programming"
+date: '2023-02-17'
+category: ['javascript', 'classes', 'objects', 'inheritance']
 tags: javascript, classes, objects, inheritance
+thumbnail: /assets/img/posts/js-classes.png
+keywords: javascript, classes, objects, inheritance
+usemathjax: false
+permalink: /blog/javascript-classes-101/
 ---
-
-![js-classes](https://user-images.githubusercontent.com/14003326/220189706-0400e053-f1c0-477e-ba4f-62672f461c3b.png)
 
 ## Introduction
 

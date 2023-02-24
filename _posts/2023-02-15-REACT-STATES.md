@@ -1,10 +1,16 @@
 ---
 layout: post
-title : Using React States
+title:  "Using React States"
+summary: "Learning how to use react states in your application"
 author: smokeyoy
-tags  : react, reactjs, nodejs, javascript
+date: '2023-02-15'
+category: ['react', 'reactjs', 'nodejs', 'javascript']
+tags: react, reactjs, nodejs, javascript
+thumbnail: /assets/img/posts/react-js.png
+keywords: react, reactjs, nodejs, javascript
+usemathjax: false
+permalink: /blog/using-react-states/
 ---
-
 React states are a fundamental concept in React programming. They are used to store and manage data that changes over time, such as user input, API responses, or component updates. In this article, we'll explore what React states are, how they work, and how to use them in your React projects.
 <!--more-->
 ## What are React States?

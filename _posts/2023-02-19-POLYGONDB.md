@@ -1,11 +1,16 @@
 ---
 layout: post
+title:  "Introducing PolygonDB"
+summary: "A Modern and Flexible Alternative to MongoDB with Advanced Data Management Features"
 author: yosileyid
-title: "Introducing PolygonDB: A Modern and Flexible Alternative to MongoDB with Advanced Data Management Features"
-tags: [json, javascript, database]
+date: '2023-01-25'
+category: [json, javascript, database]
+tags: json, javascript, database
+thumbnail: /assets/img/posts/polygondb.png
+keywords: json, javascript, database
+usemathjax: false
+permalink: /blog/polygondb-modern-and-flexible/
 ---
-
-![data-model-sql-to-json](https://user-images.githubusercontent.com/14003326/220189184-5b5a7315-4443-4d9d-a1da-cd0532fa3558.png)
 
 [PolygonDB](https://github.com/JewishLewish/PolygonDB) is an open-source database management system that is designed to be a modern alternative to MongoDB. It's built in Rust, a programming language known for its speed and reliability, and it boasts a number of features that make it a compelling choice for developers who need to store and manage data.
 <!--more-->

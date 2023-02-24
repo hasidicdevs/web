@@ -1,11 +1,16 @@
 ---
 layout: post
+title:  "Client-Side vs. Server-Side Scripting"
+summary: "Understanding the Differences for Web Development"
 author: yosileyid
-title: "Client-Side vs. Server-Side Scripting: Understanding the Differences for Web Development"
+date: '2023-02-21'
+category: ['client side', 'server side', 'scripting', 'server']
 tags: client side, server side, scripting, server
+thumbnail: /assets/img/posts/static.png
+keywords: client side, server side, scripting, server
+usemathjax: false
+permalink: /blog/client-v-server-scripting/
 ---
-
-![server](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xkjw1xzosyeqwwpt5pse.png)
 
 In web development, there are two primary methods of processing and delivering data: client-side and server-side. Each approach has its unique advantages and limitations, and understanding the difference between the two is essential for creating efficient and effective web applications.
 <!--more-->

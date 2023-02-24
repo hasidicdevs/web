@@ -1,8 +1,15 @@
 ---
 layout: post
 title:  "Using A Custom Domain With Github Pages"
-author: sotic
-tags: GitHub, Guthub-Pages
+summary: "Learn how to set up a custom domain in github pages settings"
+author: SoticOfficial
+date: '2022-02-02'
+category: ['github','custom domain', 'gh-pages']
+tags: GitHub, Guthub-Pages, Custom Domains
+thumbnail: /assets/img/posts/code.jpg
+keywords: git, github, domains
+usemathjax: false
+permalink: /blog/using-a-custom-domain/
 ---
 
 I use [Google Domains](https://domains.google.com/) for my own domains so I will be using that in my example. The process is pretty simple if you are comfortable with configuring things like DNS Records, A Names, CNAME records etc. Nothing more complicated that that. The first step is to purchase your domain name. After that is done navigave to the DNS section on your account. 
