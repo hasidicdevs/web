@@ -95,14 +95,21 @@ layout: default
 
     <div class="card">
       <h1>Skills</h1>
-
       {%- include author_skills.html -%}
+    </div>
+
+    <div class="card">
+      <h1>Jekyll Themes</h1>
+      {%- include gems.html -%}
+    </div>
+    <div class="card">
+      <h1>NPM Packages</h1>
+      {%- include npms.html -%}
     </div>
 
     {% if site.wakatime_username %}
     <div class="card">
       <h1>Coding Activity</h1>
-
       {%- include coding_activity.html -%}
     </div>
     {% endif %}
@@ -115,7 +122,7 @@ layout: default
     </div>
     {% endif %} {% if site.show_author_project_details == true %}
     <div id="author_projects" class="card">
-      <h1 class="card-title">Projects</h1>
+      <h1 class="card-title">Free Jekyll Themes</h1>
       <br />
       {% for project in site.author_project_details %} {% if project.visibility
       == true %}
@@ -139,6 +146,8 @@ layout: default
       </div>
       <br />
       {% endif %} {% endfor %}
+      <h1 class="card-title">Theme Documentation</h1>
+      <p>Our theme documentation is a work in progress. If you need any help beyond documentation feel free to join the discord server and we will help you out. You can find our theme docs <a href="https://yosileyid.github.io/docs" target="_blank">here</a> it has information about all of our themes in one centralized place including plugins.</p>
     </div>
     {% endif %} {% if site.show_author_work_experiences == true %}
     <div class="card">

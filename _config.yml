@@ -81,27 +81,21 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: ocebots.png
-                project_title: Ocebots
-                project_description: Website built for the Ocebots robotics department 
-                project_url: https://Ocebots-Robotics.hasidicdev.repl.co
+              - project_thumbnail: newspaper.png
+                project_title: Jekyll Newspaper v0.1.0
+                project_description: This is a "Newspaper" blog theme with Bootstrap v5.3
+                project_url: https://github.com/jekyll-bootstrap/jekyll-newspaper
                 visibility: true
-              - project_thumbnail: quotes.png
-                project_title: Random Quote Machine
-                project_description: Random Quotes Generator in React.js
-                project_url: https://idf5kq.csb.app/
+              - project_thumbnail: resume.png
+                project_title: Jekyll Resume v0.0.1
+                project_description: This is a "Resume" theme created for the Jekyll framework
+                project_url: https://github.com/jekyll-bootstrap/jekyll-resume
                 visibility: true
-              - project_thumbnail: dhal.png
-                project_title: Ryan Dhal - Tribute Page
-                project_description: A simple tribute page built in html / css for Ryan Dhal, the man, the myth, the legend
-                project_url: https://tribute-page.hasidicdev.repl.co/
+              - project_thumbnail: bs5.png
+                project_title: Bootstrap v5.3 Starter Template
+                project_description: This is a base bootstrap 5.3 template created for the Jekyll framework
+                project_url: https://github.com/jekyll-bootstrap/jekyll-bs5
                 visibility: true
-              - project_thumbnail: portfolio.png
-                project_title: Yosi Leyid - Portfolio
-                project_description: A Portfolio project for FreeCodeCamp
-                project_url: https://portfolio.hasidicdev.repl.co/
-                visibility: true
-
 
 # social links
 twitter_username: hasidicdevs

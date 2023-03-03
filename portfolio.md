@@ -17,6 +17,30 @@ We work as a team to design beautiful websites and graphics. It doesn't work for
 <dl>
 
   <dt>
+    <a name="[Jekyll-Bootstrap/Jekyll-Resume]" href="https://jekyll-bootstrap.github.io/jekyll-resume" target="_blank">
+      [Jekyll-Bootstrap/Jekyll-Resume]
+    </a>
+  </dt>
+  <dd>Bootstrap v5.3 Resume Theme for Jekyll</dd>
+  <dd>Tags: <strong>#Ruby, #Jekyll, #Bundler</strong></dd>
+
+  <dt>
+    <a name="[Jekyll-Bootstrap/Jekyll-Newspaper]" href="https://jekyll-bootstrap.github.io/jekyll-newspaper" target="_blank">
+      [Jekyll-Bootstrap/Jekyll-Newspaper]
+    </a>
+  </dt>
+  <dd>Newspaper Bootstrap v5.3 Theme for Jekyll</dd>
+  <dd>Tags: <strong>#Ruby, #Jekyll, #Bundler</strong></dd>
+
+  <dt>
+    <a name="[Jekyll-Bootstrap/Jekyll-bs5]" href="https://jekyll-bootstrap.github.io/jekyll-bs5" target="_blank">
+      [Jekyll-Bootstrap/Jekyll-bs5]
+    </a>
+  </dt>
+  <dd>Bootstrap v5.3 Starter Template for Jekyll</dd>
+  <dd>Tags: <strong>#Ruby, #Jekyll, #Bundler</strong></dd>
+
+  <dt>
     <a name="[hasidicdevs/website]" href="https://hasidic.dev">
       [hasidicdevs/website]
     </a>
@@ -33,7 +57,7 @@ We work as a team to design beautiful websites and graphics. It doesn't work for
   <dd>Tags: <strong>#React.js, #JavaScript</strong></dd>
 
   <dt>
-    <a name="[yosileyid/Portfolio]" href="https://portfolio.hasidicdev.repl.co/" target="_blank">
+    <a name="[yosileyid/Portfolio]" href="https://yosileyid.github.io" target="_blank">
       [yosileyid/Portfolio]
     </a>
   </dt>
@@ -75,13 +99,5 @@ We create rich web applications and websites so they are listed separately. We u
     </a>
   </dt>
   <dd>Discord bot written in Node.js to be used in multiple servers to access documentation</dd>
-  <dd>Tags: <strong>#Node.js, #JavaScript</strong></dd>
-
-  <dt>
-    <a name="[hasidicdevs/hdg-api]" href="https://github.com/yosileyid/dsb" target="_blank" >
-      [hasidicdevs/hdg-api]
-    </a>
-  </dt>
-  <dd>A better implementation of the sefaria API project.</dd>
   <dd>Tags: <strong>#Node.js, #JavaScript</strong></dd>
 <dl>

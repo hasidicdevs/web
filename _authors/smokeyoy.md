@@ -1,15 +1,13 @@
 ---
 name: Abby Shanker
-position: Repo Maintainer & Mentee
+position: Jr Dev / Mentee
 username: smokeyoy
-site: https://smokeyoy.github.io
 avatar: smokeyoy.png
-bio: "I am a Freshman in High School (14) and I live in the Washington Metro Area. I can code well in Python and a good bit of C++ (specifically with Arduino). I am also on my HS Robotics team and we will be competing in the [FIRST Robotics Competition](https://www.firstinspires.org/) this winter."
-email: smokeyoy@hasidic.dev
 social:
-  - title: "github"
-    url: "https://github.com/smokeyoy"
-  - title: "twitter"
-    url: "https://twitter.com/hasidicdevs"
+  github  : smokeyoy
+  email   : smokeyoy@hasidic.dev
+  twitter : hasidicdevs
+  discord  : abby!#6266
 ---
 
+Abby is a Freshman in High School (14) and lives in the Washington Metro Area. She can code well in Python and a good bit of C++ (specifically with Arduino). She also is a member of her HS Robotics team and they will be competing in their FIRST [Robotics Competition](https://www.firstinspires.org/) this winter.

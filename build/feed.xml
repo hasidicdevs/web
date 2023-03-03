@@ -5,8 +5,8 @@
     <description>Welcome to the Hasidic Development Group website, we hope you find everything you need...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2023 16:37:18 -0500</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2023 16:37:18 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Mar 2023 22:56:12 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Mar 2023 22:56:12 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
 
     
@@ -38,10 +38,10 @@ Client-side scripting refers to the code that runs on the user’s computer or d
 &lt;p&gt;AJAX stands for Asynchronous JavaScript and XML and is a technique used to load content into a web page without refreshing the entire page. This method improves the user experience and reduces server load by making small requests for data as needed. The following example shows how to load content using AJAX:&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;data.php&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;GET&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;data.php&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;GET&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;success&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -50,8 +50,8 @@ Client-side scripting refers to the code that runs on the user’s computer or d
 
 &lt;p&gt;Dynamic page updates allow web pages to change content without requiring a full page reload. This feature improves the user experience by providing fast and smooth transitions between different states of a web page. The following example shows how to use jQuery to update content dynamically:&lt;/p&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#button&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;click&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;New content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#button&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;click&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;New content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -63,11 +63,11 @@ Client-side scripting refers to the code that runs on the user’s computer or d
 
 &lt;p&gt;Server-side scripts are commonly used to process and manipulate data before returning it to the client. For example, a server-side script might process data from a form, validate it, and insert it into a database. The following example shows how to use PHP to process a form and insert the data into a database:&lt;/p&gt;
 
-&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$_POST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'name'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$_POST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'email'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$_POST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;name&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$_POST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;email&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
 
 &lt;span class=&quot;c1&quot;&gt;// Insert data into the database&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$query&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;INSERT INTO users (name, email) VALUES ('&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$name&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;', '&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$email&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;')&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$query&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;INSERT INTO users (name, email) VALUES (&apos;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$name&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&apos;, &apos;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$email&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&apos;)&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;mysqli_query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -109,8 +109,8 @@ Client-side scripting refers to the code that runs on the user’s computer or d
       &lt;span class=&quot;n&quot;&gt;log_in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;
       &lt;span class=&quot;n&quot;&gt;redirect_to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;flash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:danger&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Invalid email/password combination'&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'new'&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;flash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:danger&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Invalid email/password combination&apos;&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;new&apos;&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
@@ -204,9 +204,9 @@ Now that we have a basic understanding of what a Gemfile is, let’s talk about 
     &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
     &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;div class='social-sharing'&amp;gt;
-        &amp;lt;a href='https://twitter.com/share' class='twitter-share-button'&amp;gt;Tweet&amp;lt;/a&amp;gt;
-        &amp;lt;a href='https://www.facebook.com/sharer/sharer.php?u=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'page'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'url'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;' class='facebook-share-button'&amp;gt;Share on Facebook&amp;lt;/a&amp;gt;
+      &lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;div class=&apos;social-sharing&apos;&amp;gt;
+        &amp;lt;a href=&apos;https://twitter.com/share&apos; class=&apos;twitter-share-button&apos;&amp;gt;Tweet&amp;lt;/a&amp;gt;
+        &amp;lt;a href=&apos;https://www.facebook.com/sharer/sharer.php?u=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;page&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;url&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&apos; class=&apos;facebook-share-button&apos;&amp;gt;Share on Facebook&amp;lt;/a&amp;gt;
       &amp;lt;/div&amp;gt;&quot;&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
@@ -631,14 +631,14 @@ In this blog post, we will explore the concept of classes in JavaScript, and how
     &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
       &lt;span class=&quot;na&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello, world!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello, world!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   &lt;span class=&quot;c1&quot;&gt;// ...&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;In the above code, we’ve defined an initial state for a component called &lt;strong&gt;MyComponent&lt;/strong&gt;. It has two &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;properties&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;count&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;message&lt;/code&gt;, with initial values of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'Hello, world!'&lt;/code&gt; respectively. To update the state, we can call the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;setState&lt;/code&gt; method, passing in an object that contains the updated key-value pairs. For example, to increment the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;count&lt;/code&gt; property by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;/code&gt;, we can do:&lt;/p&gt;
+&lt;p&gt;In the above code, we’ve defined an initial state for a component called &lt;strong&gt;MyComponent&lt;/strong&gt;. It has two &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;properties&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;count&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;message&lt;/code&gt;, with initial values of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&apos;Hello, world!&apos;&lt;/code&gt; respectively. To update the state, we can call the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;setState&lt;/code&gt; method, passing in an object that contains the updated key-value pairs. For example, to increment the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;count&lt;/code&gt; property by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;/code&gt;, we can do:&lt;/p&gt;
 
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -741,7 +741,7 @@ In this blog post, we will explore the concept of classes in JavaScript, and how
 &lt;p&gt;Here’s an example of a simple React state:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;jsx&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;react&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;react&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Counter&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;kd&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -781,24 +781,24 @@ In this blog post, we will explore the concept of classes in JavaScript, and how
 &lt;p&gt;Here’s an example of a more complex React state:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;jsx&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;react&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;react&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;LoginForm&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;kd&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
     &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
       &lt;span class=&quot;na&quot;&gt;rememberMe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
       &lt;span class=&quot;na&quot;&gt;loading&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;''&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&apos;&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
   &lt;span class=&quot;nx&quot;&gt;handleInputChange&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;checkbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checked&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;checkbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checked&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
     &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
@@ -1212,45 +1212,45 @@ CLIENT_ID = &quot;your_ID&quot;
 &lt;h3 id=&quot;indexjs&quot;&gt;index.js&lt;/h3&gt;
 
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;//IMPORT modules needed for Discord Bot Base&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;REST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;GatewayIntentBits&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Routes&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;discord.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;REST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;GatewayIntentBits&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Routes&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;discord.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;dotenv&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
 
 &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;intents&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;GatewayIntentBits&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Guilds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rest&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;REST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setToken&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;CLIENT_TOKEN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rest&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;REST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setToken&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;CLIENT_TOKEN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
 &lt;span class=&quot;c1&quot;&gt;// Registering Commands, new commands go here...&lt;/span&gt;
 &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commands&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ping&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Replies with Pong!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ping&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Replies with Pong!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
 
 
 &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Started refreshing application (/) commands.&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Started refreshing application (/) commands.&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
     &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;put&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Routes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;applicationCommands&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;CLIENT_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commands&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Successfully reloaded application (/) commands.&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Successfully reloaded application (/) commands.&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;})();&lt;/span&gt;
 
 
-&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;`Logged in as &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;!`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 
 &lt;span class=&quot;c1&quot;&gt;// Control what the commands will do...&lt;/span&gt;
 
-&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;interactionCreate&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;interactionCreate&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isChatInputCommand&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
-  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;commandName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ping&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reply&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Pong!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;commandName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;ping&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;interaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reply&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Pong!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 
@@ -1540,7 +1540,7 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 &lt;p&gt;To add categories in blog posts all you have to do is add a &lt;strong&gt;category&lt;/strong&gt; key with category values in frontmatter of the post :&lt;/p&gt;
 
 &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;category&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;jekyll'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;guides'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;sample_category'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;category&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;jekyll&apos;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;guides&apos;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;sample_category&apos;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
 &lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -1689,7 +1689,7 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Demo&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Article&quot;&lt;/span&gt;
 &lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;janedoe&lt;/span&gt;
 &lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;This is Jane Doe's Article&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;This is Jane Doe&apos;s Article&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Now there will be Authors widget in Blog Sidebar, showing all authors like this :&lt;/p&gt;
@@ -1791,7 +1791,7 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;or&lt;/p&gt;
 
@@ -2136,6 +2136,65 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
       
     
       
+        
+          <item>
+            <title>Join Our Team</title>
+            <description>&lt;h1 id=&quot;join-our-team&quot;&gt;Join Our Team&lt;/h1&gt;
+
+&lt;p&gt;We are looking for a few skilled hands to join our team. If you feel you have what it takes and would like to get in on an amazing startup business please send us an email at &lt;a href=&quot;mailto:github@hasidic.dev&quot;&gt;github@hasidic.dev&lt;/a&gt; and put the Job Title as the SUBJECT of the message. Thank you for considering working with us. Am Yisrael Chai&lt;/p&gt;
+
+&lt;h2 id=&quot;freelance-front-end-developer-wanted&quot;&gt;Freelance Front-End Developer Wanted&lt;/h2&gt;
+
+&lt;p&gt;Looking for a skilled freelance front-end developer to join our web development startup team! As a remote freelancer, you’ll be responsible for delivering high-quality work on a per-project basis.&lt;/p&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Strong experience with HTML5, CSS3, JavaScript, and jQuery&lt;/li&gt;
+  &lt;li&gt;Experience with at least one front-end framework (React, Angular, Vue.js, etc.)&lt;/li&gt;
+  &lt;li&gt;Familiarity with version control systems such as Git&lt;/li&gt;
+  &lt;li&gt;Strong attention to detail and ability to work independently&lt;/li&gt;
+  &lt;li&gt;Excellent communication and collaboration skills&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Develop clean, responsive, and user-friendly web interfaces using modern front-end technologies&lt;/li&gt;
+  &lt;li&gt;Collaborate with the rest of the team to ensure project requirements are met on time and within budget&lt;/li&gt;
+  &lt;li&gt;Work closely with project managers, designers, and back-end developers to deliver high-quality products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are a skilled front-end developer with a passion for web development and are interested in working remotely on a per-project basis, we’d love to hear from you. Please submit your resume, portfolio, and hourly rate to &lt;a href=&quot;mailto:github@hasidic.dev&quot;&gt;github@hasidic.dev&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;seeking-sales-team-on-commission-basis&quot;&gt;Seeking Sales Team on Commission Basis&lt;/h2&gt;
+
+&lt;p&gt;We are a fast-growing web development startup looking to expand our business and reach new clients. We are seeking a sales team to join us on a commission basis.&lt;/p&gt;
+
+&lt;h3 id=&quot;requirements-1&quot;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proven experience in sales, preferably in the tech industry&lt;/li&gt;
+  &lt;li&gt;Excellent communication and negotiation skills&lt;/li&gt;
+  &lt;li&gt;Strong ability to work independently and meet sales targets&lt;/li&gt;
+  &lt;li&gt;A passion for web development and technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;responsibilities-1&quot;&gt;Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reach out to potential clients and introduce our web development services&lt;/li&gt;
+  &lt;li&gt;Follow up with leads and close deals&lt;/li&gt;
+  &lt;li&gt;Build and maintain relationships with clients&lt;/li&gt;
+  &lt;li&gt;Meet monthly and quarterly sales targets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We offer a competitive commission structure and a flexible work schedule. If you are a motivated sales professional with a passion for technology and web development, we want to hear from you. Please submit your resume and a brief summary of your sales experience to &lt;a href=&quot;mailto:github@hasidic.dev&quot;&gt;github@hasidic.dev&lt;/a&gt;.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/careers/</link>
+          </item>
+        
+      
+    
+      
     
       
         
@@ -2307,7 +2366,7 @@ Domain does not resolve to the GitHub Pages server. For more information, see Le
             <title>Get Started</title>
             <description>## Getting Started - How to use “devlopr-jekyll” theme
 
-## What's Jekyll ?
+## What&apos;s Jekyll ?
 
 If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! If you are a beginner we recommend you start with [Jekyll’s Docs](https://jekyllrb.com/docs/installation/). Now, if you know how to use Jekyll, let’s move on to using this theme in Jekyll:
 
@@ -2423,7 +2482,7 @@ Start populating your blog by adding your .md files in _posts. devlopr-jekyll al
 layout: post
 title: Sample Post
 author: Sujay Kundu
-date: '2019-05-21 14:35:23 +0530'
+date: &apos;2019-05-21 14:35:23 +0530&apos;
 category:
         - jekyll
 summary: This is the summary for the sample post
@@ -2554,7 +2613,7 @@ You can visit the blog using [http://your-github-username.github.io](http://your
             <title>HDG Portfolio</title>
             <description># Group Development Portfolio
 
-We work as a team to design beautiful websites and graphics. It doesn't work for everyone, but it is how we decided to work. We have done work in the past for the previous sites. Testimonials coming in the future. Each of these projects was headed by a member of our [team](/staff) please send an email if you need help finding anything. 
+We work as a team to design beautiful websites and graphics. It doesn&apos;t work for everyone, but it is how we decided to work. We have done work in the past for the previous sites. Testimonials coming in the future. Each of these projects was headed by a member of our [team](/staff) please send an email if you need help finding anything. 
 
 &lt;img class=&quot;img-fluid&quot; src=&quot;https://user-images.githubusercontent.com/14003326/218277127-c7dfffd7-b514-4d90-9498-e6d3b654fbce.png&quot; /&gt;
 
@@ -2563,6 +2622,30 @@ We work as a team to design beautiful websites and graphics. It doesn't work for
 &lt;p&gt;We create websites for various clients across many different fields, even game and hobby websites like for your roblox groups, or a tiktok fan page, we do it all. Send us an email today to get started with your web design package or visit our sales page&lt;!-- LINK /sale/ --&gt; and click through the process there.&lt;/p&gt;
 
 &lt;dl&gt;
+
+  &lt;dt&gt;
+    &lt;a name=&quot;[Jekyll-Bootstrap/Jekyll-Resume]&quot; href=&quot;https://jekyll-bootstrap.github.io/jekyll-resume&quot; target=&quot;_blank&quot;&gt;
+      [Jekyll-Bootstrap/Jekyll-Resume]
+    &lt;/a&gt;
+  &lt;/dt&gt;
+  &lt;dd&gt;Bootstrap v5.3 Resume Theme for Jekyll&lt;/dd&gt;
+  &lt;dd&gt;Tags: &lt;strong&gt;#Ruby, #Jekyll, #Bundler&lt;/strong&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;
+    &lt;a name=&quot;[Jekyll-Bootstrap/Jekyll-Newspaper]&quot; href=&quot;https://jekyll-bootstrap.github.io/jekyll-newspaper&quot; target=&quot;_blank&quot;&gt;
+      [Jekyll-Bootstrap/Jekyll-Newspaper]
+    &lt;/a&gt;
+  &lt;/dt&gt;
+  &lt;dd&gt;Newspaper Bootstrap v5.3 Theme for Jekyll&lt;/dd&gt;
+  &lt;dd&gt;Tags: &lt;strong&gt;#Ruby, #Jekyll, #Bundler&lt;/strong&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;
+    &lt;a name=&quot;[Jekyll-Bootstrap/Jekyll-bs5]&quot; href=&quot;https://jekyll-bootstrap.github.io/jekyll-bs5&quot; target=&quot;_blank&quot;&gt;
+      [Jekyll-Bootstrap/Jekyll-bs5]
+    &lt;/a&gt;
+  &lt;/dt&gt;
+  &lt;dd&gt;Bootstrap v5.3 Starter Template for Jekyll&lt;/dd&gt;
+  &lt;dd&gt;Tags: &lt;strong&gt;#Ruby, #Jekyll, #Bundler&lt;/strong&gt;&lt;/dd&gt;
 
   &lt;dt&gt;
     &lt;a name=&quot;[hasidicdevs/website]&quot; href=&quot;https://hasidic.dev&quot;&gt;
@@ -2581,7 +2664,7 @@ We work as a team to design beautiful websites and graphics. It doesn't work for
   &lt;dd&gt;Tags: &lt;strong&gt;#React.js, #JavaScript&lt;/strong&gt;&lt;/dd&gt;
 
   &lt;dt&gt;
-    &lt;a name=&quot;[yosileyid/Portfolio]&quot; href=&quot;https://portfolio.hasidicdev.repl.co/&quot; target=&quot;_blank&quot;&gt;
+    &lt;a name=&quot;[yosileyid/Portfolio]&quot; href=&quot;https://yosileyid.github.io&quot; target=&quot;_blank&quot;&gt;
       [yosileyid/Portfolio]
     &lt;/a&gt;
   &lt;/dt&gt;
@@ -2623,14 +2706,6 @@ We create rich web applications and websites so they are listed separately. We u
     &lt;/a&gt;
   &lt;/dt&gt;
   &lt;dd&gt;Discord bot written in Node.js to be used in multiple servers to access documentation&lt;/dd&gt;
-  &lt;dd&gt;Tags: &lt;strong&gt;#Node.js, #JavaScript&lt;/strong&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;
-    &lt;a name=&quot;[hasidicdevs/hdg-api]&quot; href=&quot;https://github.com/yosileyid/dsb&quot; target=&quot;_blank&quot; &gt;
-      [hasidicdevs/hdg-api]
-    &lt;/a&gt;
-  &lt;/dt&gt;
-  &lt;dd&gt;A better implementation of the sefaria API project.&lt;/dd&gt;
   &lt;dd&gt;Tags: &lt;strong&gt;#Node.js, #JavaScript&lt;/strong&gt;&lt;/dd&gt;
 &lt;dl&gt;
 </description>
@@ -2787,33 +2862,15 @@ Membership begins with joining our discord server and getting to know us, then i
 
 &lt;img class=&quot;img-fluid&quot; src=&quot;https://user-images.githubusercontent.com/14003326/220189844-c2f20b25-25ac-4672-a831-ebf8fcec4da2.png&quot; /&gt;
 
-## Team Members
 {% for author in site.authors %}
 
-### [{{ author.name }}](/blog/authors/{{ author.username  }})
+## [{{ author.name }}](/blog/authors/{{ author.username  }})
 
 #### **{{ author.position }}**
 
-{{ author.bio }}
+{{ author.content }}
 
-{% endfor %}
-
-&lt;img class=&quot;img-fluid&quot; src=&quot;https://user-images.githubusercontent.com/14003326/220488657-6c08a7be-5490-498f-ba7c-8138cf2cd22b.jpeg&quot; /&gt;  
-
-## GitHub Teams
-
-We love to contribute on GitHub and we designed our teams to be able to do that. If you own a repo and are stuck on some element of your program or website, Simply create a new issue in your repo and tag whatever team below applies to your situation and we will jump right in and help if we are able.
-
-&lt;dl&gt;
-  &lt;dt&gt;&lt;a href=&quot;https://github.com/orgs/hasidicdevs/teams/web&quot; target=&quot;_blank&quot;&gt;@hasidicdevs/web&lt;/a&gt;&lt;/dt&gt;  
-    &lt;dd&gt;Whether this be with a web application {JavaScript || Python} or an extension / app that is installed in a browser like @ChromeOS or @mozilla, we want to help.&lt;/dd&gt;
-  &lt;dt&gt;&lt;a href=&quot;https://github.com/orgs/hasidicdevs/teams/bots&quot; target=&quot;_blank&quot;&gt;@hasidicdevs/bots&lt;/a&gt;&lt;/dt&gt;  
-    &lt;dd&gt;If you are using one of our prebuilt bot packages from npm and are having an issue, or if you are in one of our servers and are having an issue, just tag this team and raise the issue and we will come right in.&lt;/dd&gt;
-  &lt;dt&gt;&lt;a href=&quot;https://github.com/orgs/hasidicdevs/teams/api&quot; target=&quot;_blank&quot;&gt;@hasidicdevs/api&lt;/a&gt;&lt;/dt&gt;  
-    &lt;dd&gt;We are in the process of building a better API to use with sefaria.org if you have access to that and are running into an error please tag us and we will help resolve it.&lt;/dd&gt;
-  &lt;dt&gt;&lt;a href=&quot;https://github.com/orgs/hasidicdevs/teams/graphics&quot; target=&quot;_blank&quot;&gt;@hasidicdevs/graphics&lt;/a&gt;&lt;/dt&gt;  
-    &lt;dd&gt;If you need a new logo designed or some video editing done for tiktok, facebook, twitter or anything else Liam is amazing and he is available daily to assist you.&lt;/dd&gt;
-&lt;/dl&gt;</description>
+{% endfor %}</description>
             <link>http://localhost:4000/staff/</link>
           </item>
         
@@ -3040,15 +3097,15 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     const obj = {
       id: 5,
-      name: 'San Francisco',
+      name: &apos;San Francisco&apos;,
     };
-    obj[getKey('enabled')] = true;
+    obj[getKey(&apos;enabled&apos;)] = true;
 
     // good
     const obj = {
       id: 5,
-      name: 'San Francisco',
-      [getKey('enabled')]: true,
+      name: &apos;San Francisco&apos;,
+      [getKey(&apos;enabled&apos;)]: true,
     };
     ```
 
@@ -3081,7 +3138,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     &gt; Why? It is shorter and descriptive.
 
     ```javascript
-    const lukeSkywalker = 'Luke Skywalker';
+    const lukeSkywalker = &apos;Luke Skywalker&apos;;
 
     // bad
     const obj = {
@@ -3100,8 +3157,8 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     &gt; Why? It’s easier to tell which properties are using the shorthand.
 
     ```javascript
-    const anakinSkywalker = 'Anakin Skywalker';
-    const lukeSkywalker = 'Luke Skywalker';
+    const anakinSkywalker = &apos;Anakin Skywalker&apos;;
+    const lukeSkywalker = &apos;Luke Skywalker&apos;;
 
     // bad
     const obj = {
@@ -3132,16 +3189,16 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     const bad = {
-      'foo': 3,
-      'bar': 4,
-      'data-blah': 5,
+      &apos;foo&apos;: 3,
+      &apos;bar&apos;: 4,
+      &apos;data-blah&apos;: 5,
     };
 
     // good
     const good = {
       foo: 3,
       bar: 4,
-      'data-blah': 5,
+      &apos;data-blah&apos;: 5,
     };
     ```
 
@@ -3161,7 +3218,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     const has = Object.prototype.hasOwnProperty; // cache the lookup once, in module scope.
     console.log(has.call(object, key));
     /* or */
-    import has from 'has'; // https://www.npmjs.com/package/has
+    import has from &apos;has&apos;; // https://www.npmjs.com/package/has
     console.log(has(object, key));
     /* or */
     console.log(Object.hasOwn(object, key)); // https://www.npmjs.com/package/object.hasown
@@ -3209,10 +3266,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     const someStack = [];
 
     // bad
-    someStack[someStack.length] = 'abracadabra';
+    someStack[someStack.length] = &apos;abracadabra&apos;;
 
     // good
-    someStack.push('abracadabra');
+    someStack.push(&apos;abracadabra&apos;);
     ```
 
   &lt;a name=&quot;es6-array-spreads&quot;&gt;&lt;/a&gt;&lt;a name=&quot;4.3&quot;&gt;&lt;/a&gt;
@@ -3237,7 +3294,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
   - [4.4](#arrays--from-iterable) To convert an iterable object to an array, use spreads `...` instead of [`Array.from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
     ```javascript
-    const foo = document.querySelectorAll('.foo');
+    const foo = document.querySelectorAll(&apos;.foo&apos;);
 
     // good
     const nodes = Array.from(foo);
@@ -3250,7 +3307,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
   - [4.5](#arrays--from-array-like) Use [`Array.from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from) for converting an array-like object to an array.
 
     ```javascript
-    const arrLike = { 0: 'foo', 1: 'bar', 2: 'baz', length: 3 };
+    const arrLike = { 0: &apos;foo&apos;, 1: &apos;bar&apos;, 2: &apos;baz&apos;, length: 3 };
 
     // bad
     const arr = Array.prototype.slice.call(arrLike);
@@ -3297,8 +3354,8 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     inbox.filter((msg) =&gt; {
       const { subject, author } = msg;
-      if (subject === 'Mockingbird') {
-        return author === 'Harper Lee';
+      if (subject === &apos;Mockingbird&apos;) {
+        return author === &apos;Harper Lee&apos;;
       } else {
         return false;
       }
@@ -3307,8 +3364,8 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // good
     inbox.filter((msg) =&gt; {
       const { subject, author } = msg;
-      if (subject === 'Mockingbird') {
-        return author === 'Harper Lee';
+      if (subject === &apos;Mockingbird&apos;) {
+        return author === &apos;Harper Lee&apos;;
       }
 
       return false;
@@ -3426,7 +3483,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 ## Strings
 
   &lt;a name=&quot;strings--quotes&quot;&gt;&lt;/a&gt;&lt;a name=&quot;6.1&quot;&gt;&lt;/a&gt;
-  - [6.1](#strings--quotes) Use single quotes `''` for strings. eslint: [`quotes`](https://eslint.org/docs/rules/quotes)
+  - [6.1](#strings--quotes) Use single quotes `&apos;&apos;` for strings. eslint: [`quotes`](https://eslint.org/docs/rules/quotes)
 
     ```javascript
     // bad
@@ -3436,7 +3493,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     const name = `Capt. Janeway`;
 
     // good
-    const name = 'Capt. Janeway';
+    const name = &apos;Capt. Janeway&apos;;
     ```
 
   &lt;a name=&quot;strings--line-length&quot;&gt;&lt;/a&gt;&lt;a name=&quot;6.2&quot;&gt;&lt;/a&gt;
@@ -3446,18 +3503,18 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const errorMessage = 'This is a super long error that was thrown because \
+    const errorMessage = &apos;This is a super long error that was thrown because \
     of Batman. When you stop to think about how Batman had anything to do \
     with this, you would get nowhere \
-    fast.';
+    fast.&apos;;
 
     // bad
-    const errorMessage = 'This is a super long error that was thrown because ' +
-      'of Batman. When you stop to think about how Batman had anything to do ' +
-      'with this, you would get nowhere fast.';
+    const errorMessage = &apos;This is a super long error that was thrown because &apos; +
+      &apos;of Batman. When you stop to think about how Batman had anything to do &apos; +
+      &apos;with this, you would get nowhere fast.&apos;;
 
     // good
-    const errorMessage = 'This is a super long error that was thrown because of Batman. When you stop to think about how Batman had anything to do with this, you would get nowhere fast.';
+    const errorMessage = &apos;This is a super long error that was thrown because of Batman. When you stop to think about how Batman had anything to do with this, you would get nowhere fast.&apos;;
     ```
 
   &lt;a name=&quot;es6-template-literals&quot;&gt;&lt;/a&gt;&lt;a name=&quot;6.4&quot;&gt;&lt;/a&gt;
@@ -3468,12 +3525,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     function sayHi(name) {
-      return 'How are you, ' + name + '?';
+      return &apos;How are you, &apos; + name + &apos;?&apos;;
     }
 
     // bad
     function sayHi(name) {
-      return ['How are you, ', name, '?'].join();
+      return [&apos;How are you, &apos;, name, &apos;?&apos;].join();
     }
 
     // bad
@@ -3497,11 +3554,11 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const foo = '\'this\' \i\s \&quot;quoted\&quot;';
+    const foo = &apos;\&apos;this\&apos; \i\s \&quot;quoted\&quot;&apos;;
 
     // good
-    const foo = '\'this\' is &quot;quoted&quot;';
-    const foo = `my name is '${name}'`;
+    const foo = &apos;\&apos;this\&apos; is &quot;quoted&quot;&apos;;
+    const foo = `my name is &apos;${name}&apos;`;
     ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -3539,7 +3596,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // immediately-invoked function expression (IIFE)
     (function () {
-      console.log('Welcome to the Internet. Please follow me.');
+      console.log(&apos;Welcome to the Internet. Please follow me.&apos;);
     }());
     ```
 
@@ -3553,7 +3610,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     if (currentUser) {
       function test() {
-        console.log('Nope.');
+        console.log(&apos;Nope.&apos;);
       }
     }
 
@@ -3561,7 +3618,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     let test;
     if (currentUser) {
       test = () =&gt; {
-        console.log('Yup.');
+        console.log(&apos;Yup.&apos;);
       };
     }
     ```
@@ -3590,12 +3647,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     function concatenateAll() {
       const args = Array.prototype.slice.call(arguments);
-      return args.join('');
+      return args.join(&apos;&apos;);
     }
 
     // good
     function concatenateAll(...args) {
-      return args.join('');
+      return args.join(&apos;&apos;);
     }
     ```
 
@@ -3606,7 +3663,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // really bad
     function handleThings(opts) {
       // No! We shouldn’t mutate function arguments.
-      // Double bad: if opts is falsy it'll be set to an object which may
+      // Double bad: if opts is falsy it&apos;ll be set to an object which may
       // be what you want but it can introduce subtle bugs.
       opts = opts || {};
       // ...
@@ -3665,10 +3722,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const add = new Function('a', 'b', 'return a + b');
+    const add = new Function(&apos;a&apos;, &apos;b&apos;, &apos;return a + b&apos;);
 
     // still bad
-    const subtract = Function('a', 'b', 'return a - b');
+    const subtract = Function(&apos;a&apos;, &apos;b&apos;, &apos;return a - b&apos;);
     ```
 
   &lt;a name=&quot;functions--signature-spacing&quot;&gt;&lt;/a&gt;&lt;a name=&quot;7.11&quot;&gt;&lt;/a&gt;
@@ -3700,7 +3757,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // good
     function f2(obj) {
-      const key = Object.prototype.hasOwnProperty.call(obj, 'key') ? obj.key : 1;
+      const key = Object.prototype.hasOwnProperty.call(obj, &apos;key&apos;) ? obj.key : 1;
     }
     ```
 
@@ -3863,14 +3920,14 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    ['get', 'post', 'put'].map((httpMethod) =&gt; Object.prototype.hasOwnProperty.call(
+    [&apos;get&apos;, &apos;post&apos;, &apos;put&apos;].map((httpMethod) =&gt; Object.prototype.hasOwnProperty.call(
         httpMagicObjectWithAVeryLongName,
         httpMethod,
       )
     );
 
     // good
-    ['get', 'post', 'put'].map((httpMethod) =&gt; (
+    [&apos;get&apos;, &apos;post&apos;, &apos;put&apos;].map((httpMethod) =&gt; (
       Object.prototype.hasOwnProperty.call(
         httpMagicObjectWithAVeryLongName,
         httpMethod,
@@ -3992,7 +4049,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const inherits = require('inherits');
+    const inherits = require(&apos;inherits&apos;);
     function PeekableQueue(contents) {
       Queue.apply(this, contents);
     }
@@ -4052,7 +4109,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     class Jedi {
       constructor(options = {}) {
-        this.name = options.name || 'no name';
+        this.name = options.name || &apos;no name&apos;;
       }
 
       getName() {
@@ -4089,7 +4146,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     class Rey extends Jedi {
       constructor(...args) {
         super(...args);
-        this.name = 'Rey';
+        this.name = &apos;Rey&apos;;
       }
     }
     ```
@@ -4124,7 +4181,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     class Foo {
       bar() {
-        console.log('bar');
+        console.log(&apos;bar&apos;);
       }
     }
 
@@ -4142,10 +4199,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       }
     }
 
-    // good - static methods aren't expected to use this
+    // good - static methods aren&apos;t expected to use this
     class Foo {
       static bar() {
-        console.log('bar');
+        console.log(&apos;bar&apos;);
       }
     }
     ```
@@ -4161,15 +4218,15 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const AirbnbStyleGuide = require('./AirbnbStyleGuide');
+    const AirbnbStyleGuide = require(&apos;./AirbnbStyleGuide&apos;);
     module.exports = AirbnbStyleGuide.es6;
 
     // ok
-    import AirbnbStyleGuide from './AirbnbStyleGuide';
+    import AirbnbStyleGuide from &apos;./AirbnbStyleGuide&apos;;
     export default AirbnbStyleGuide.es6;
 
     // best
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from &apos;./AirbnbStyleGuide&apos;;
     export default es6;
     ```
 
@@ -4180,10 +4237,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import * as AirbnbStyleGuide from './AirbnbStyleGuide';
+    import * as AirbnbStyleGuide from &apos;./AirbnbStyleGuide&apos;;
 
     // good
-    import AirbnbStyleGuide from './AirbnbStyleGuide';
+    import AirbnbStyleGuide from &apos;./AirbnbStyleGuide&apos;;
     ```
 
   &lt;a name=&quot;modules--no-export-from-import&quot;&gt;&lt;/a&gt;&lt;a name=&quot;10.3&quot;&gt;&lt;/a&gt;
@@ -4194,11 +4251,11 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     // filename es6.js
-    export { es6 as default } from './AirbnbStyleGuide';
+    export { es6 as default } from &apos;./AirbnbStyleGuide&apos;;
 
     // good
     // filename es6.js
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from &apos;./AirbnbStyleGuide&apos;;
     export default es6;
     ```
 
@@ -4209,18 +4266,18 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import foo from 'foo';
+    import foo from &apos;foo&apos;;
     // … some other imports … //
-    import { named1, named2 } from 'foo';
+    import { named1, named2 } from &apos;foo&apos;;
 
     // good
-    import foo, { named1, named2 } from 'foo';
+    import foo, { named1, named2 } from &apos;foo&apos;;
 
     // good
     import foo, {
       named1,
       named2,
-    } from 'foo';
+    } from &apos;foo&apos;;
     ```
 
   &lt;a name=&quot;modules--no-mutable-exports&quot;&gt;&lt;/a&gt;
@@ -4258,14 +4315,14 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import foo from 'foo';
+    import foo from &apos;foo&apos;;
     foo.init();
 
-    import bar from 'bar';
+    import bar from &apos;bar&apos;;
 
     // good
-    import foo from 'foo';
-    import bar from 'bar';
+    import foo from &apos;foo&apos;;
+    import bar from &apos;bar&apos;;
 
     foo.init();
     ```
@@ -4278,7 +4335,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import {longNameA, longNameB, longNameC, longNameD, longNameE} from 'path';
+    import {longNameA, longNameB, longNameC, longNameD, longNameE} from &apos;path&apos;;
 
     // good
     import {
@@ -4287,7 +4344,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       longNameC,
       longNameD,
       longNameE,
-    } from 'path';
+    } from &apos;path&apos;;
     ```
 
   &lt;a name=&quot;modules--no-webpack-loader-syntax&quot;&gt;&lt;/a&gt;
@@ -4297,29 +4354,29 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import fooSass from 'css!sass!foo.scss';
-    import barCss from 'style!css!bar.css';
+    import fooSass from &apos;css!sass!foo.scss&apos;;
+    import barCss from &apos;style!css!bar.css&apos;;
 
     // good
-    import fooSass from 'foo.scss';
-    import barCss from 'bar.css';
+    import fooSass from &apos;foo.scss&apos;;
+    import barCss from &apos;bar.css&apos;;
     ```
 
   &lt;a name=&quot;modules--import-extensions&quot;&gt;&lt;/a&gt;
   - [10.10](#modules--import-extensions) Do not include JavaScript filename extensions
  eslint: [`import/extensions`](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/extensions.md)
-    &gt; Why? Including extensions inhibits refactoring, and inappropriately hardcodes implementation details of the module you're importing in every consumer.
+    &gt; Why? Including extensions inhibits refactoring, and inappropriately hardcodes implementation details of the module you&apos;re importing in every consumer.
 
     ```javascript
     // bad
-    import foo from './foo.js';
-    import bar from './bar.jsx';
-    import baz from './baz/index.jsx';
+    import foo from &apos;./foo.js&apos;;
+    import bar from &apos;./bar.jsx&apos;;
+    import baz from &apos;./baz/index.jsx&apos;;
 
     // good
-    import foo from './foo';
-    import bar from './bar';
-    import baz from './baz';
+    import foo from &apos;./foo&apos;;
+    import bar from &apos;./bar&apos;;
+    import baz from &apos;./baz&apos;;
     ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -4450,7 +4507,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     };
 
     // bad
-    const isJedi = luke['jedi'];
+    const isJedi = luke[&apos;jedi&apos;];
 
     // good
     const isJedi = luke.jedi;
@@ -4469,7 +4526,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       return luke[prop];
     }
 
-    const isJedi = getProp('jedi');
+    const isJedi = getProp(&apos;jedi&apos;);
     ```
 
   &lt;a name=&quot;es2016-properties--exponentiation-operator&quot;&gt;&lt;/a&gt;
@@ -4507,18 +4564,18 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad
     const items = getItems(),
         goSportsTeam = true,
-        dragonball = 'z';
+        dragonball = &apos;z&apos;;
 
     // bad
     // (compare to above, and try to spot the mistake)
     const items = getItems(),
         goSportsTeam = true;
-        dragonball = 'z';
+        dragonball = &apos;z&apos;;
 
     // good
     const items = getItems();
     const goSportsTeam = true;
-    const dragonball = 'z';
+    const dragonball = &apos;z&apos;;
     ```
 
   &lt;a name=&quot;variables--const-let-group&quot;&gt;&lt;/a&gt;&lt;a name=&quot;13.3&quot;&gt;&lt;/a&gt;
@@ -4557,12 +4614,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     function checkName(hasName) {
       const name = getName();
 
-      if (hasName === 'test') {
+      if (hasName === &apos;test&apos;) {
         return false;
       }
 
-      if (name === 'test') {
-        this.setName('');
+      if (name === &apos;test&apos;) {
+        this.setName(&apos;&apos;);
         return false;
       }
 
@@ -4571,14 +4628,14 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // good
     function checkName(hasName) {
-      if (hasName === 'test') {
+      if (hasName === &apos;test&apos;) {
         return false;
       }
 
       const name = getName();
 
-      if (name === 'test') {
-        this.setName('');
+      if (name === &apos;test&apos;) {
+        this.setName(&apos;&apos;);
         return false;
       }
 
@@ -4665,7 +4722,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // bad
     const foo
-      = 'superLongLongLongLongLongLongLongLongString';
+      = &apos;superLongLongLongLongLongLongLongLongString&apos;;
 
     // good
     const foo = (
@@ -4673,7 +4730,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     );
 
     // good
-    const foo = 'superLongLongLongLongLongLongLongLongString';
+    const foo = &apos;superLongLongLongLongLongLongLongLongString&apos;;
     ```
 
 &lt;a name=&quot;variables--no-unused-vars&quot;&gt;&lt;/a&gt;
@@ -4710,10 +4767,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     alert(getXPlusY(x, y));
 
-    // 'type' is ignored even if unused because it has a rest property sibling.
+    // &apos;type&apos; is ignored even if unused because it has a rest property sibling.
     // This is a form of extracting an object that omits the specified keys.
     const { type, ...coords } = data;
-    // 'coords' is now the 'data' object without its 'type' property.
+    // &apos;coords&apos; is now the &apos;data&apos; object without its &apos;type&apos; property.
     ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -4766,7 +4823,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       anonymous(); // =&gt; TypeError anonymous is not a function
 
       var anonymous = function () {
-        console.log('anonymous function expression');
+        console.log(&apos;anonymous function expression&apos;);
       };
     }
     ```
@@ -4783,7 +4840,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       superPower(); // =&gt; ReferenceError superPower is not defined
 
       var named = function superPower() {
-        console.log('Flying');
+        console.log(&apos;Flying&apos;);
       };
     }
 
@@ -4795,7 +4852,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       named(); // =&gt; TypeError named is not a function
 
       var named = function named() {
-        console.log('named');
+        console.log(&apos;named&apos;);
       };
     }
     ```
@@ -4808,7 +4865,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       superPower(); // =&gt; Flying
 
       function superPower() {
-        console.log('Flying');
+        console.log(&apos;Flying&apos;);
       }
     }
     ```
@@ -4830,7 +4887,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     - **Null** evaluates to **false**
     - **Booleans** evaluate to **the value of the boolean**
     - **Numbers** evaluate to **false** if **+0, -0, or NaN**, otherwise **true**
-    - **Strings** evaluate to **false** if an empty string `''`, otherwise **true**
+    - **Strings** evaluate to **false** if an empty string `&apos;&apos;`, otherwise **true**
 
     ```javascript
     if ([0] &amp;&amp; []) {
@@ -4859,7 +4916,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     }
 
     // good
-    if (name !== '') {
+    if (name !== &apos;&apos;) {
       // ...
     }
 
@@ -4935,15 +4992,15 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
       : value1 &gt; value2 ? &quot;baz&quot; : null;
 
     // split into 2 separated ternary expressions
-    const maybeNull = value1 &gt; value2 ? 'baz' : null;
+    const maybeNull = value1 &gt; value2 ? &apos;baz&apos; : null;
 
     // better
     const foo = maybe1 &gt; maybe2
-      ? 'bar'
+      ? &apos;bar&apos;
       : maybeNull;
 
     // best
-    const foo = maybe1 &gt; maybe2 ? 'bar' : maybeNull;
+    const foo = maybe1 &gt; maybe2 ? &apos;bar&apos; : maybeNull;
     ```
 
   &lt;a name=&quot;comparison--unneeded-ternary&quot;&gt;&lt;/a&gt;&lt;a name=&quot;15.7&quot;&gt;&lt;/a&gt;
@@ -5127,26 +5184,26 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    if ((foo === 123 || bar === 'abc') &amp;&amp; doesItLookGoodWhenItBecomesThatLong() &amp;&amp; isThisReallyHappening()) {
+    if ((foo === 123 || bar === &apos;abc&apos;) &amp;&amp; doesItLookGoodWhenItBecomesThatLong() &amp;&amp; isThisReallyHappening()) {
       thing1();
     }
 
     // bad
     if (foo === 123 &amp;&amp;
-      bar === 'abc') {
+      bar === &apos;abc&apos;) {
       thing1();
     }
 
     // bad
     if (foo === 123
-      &amp;&amp; bar === 'abc') {
+      &amp;&amp; bar === &apos;abc&apos;) {
       thing1();
     }
 
     // bad
     if (
       foo === 123 &amp;&amp;
-      bar === 'abc'
+      bar === &apos;abc&apos;
     ) {
       thing1();
     }
@@ -5154,14 +5211,14 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // good
     if (
       foo === 123
-      &amp;&amp; bar === 'abc'
+      &amp;&amp; bar === &apos;abc&apos;
     ) {
       thing1();
     }
 
     // good
     if (
-      (foo === 123 || bar === 'abc')
+      (foo === 123 || bar === &apos;abc&apos;)
       &amp;&amp; doesItLookGoodWhenItBecomesThatLong()
       &amp;&amp; isThisReallyHappening()
     ) {
@@ -5169,13 +5226,13 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     }
 
     // good
-    if (foo === 123 &amp;&amp; bar === 'abc') {
+    if (foo === 123 &amp;&amp; bar === &apos;abc&apos;) {
       thing1();
     }
     ```
 
   &lt;a name=&quot;control-statement--value-selection&quot;&gt;&lt;/a&gt;&lt;a name=&quot;control-statements--value-selection&quot;&gt;&lt;/a&gt;
-  - [17.2](#control-statements--value-selection) Don't use selection operators in place of control statements.
+  - [17.2](#control-statements--value-selection) Don&apos;t use selection operators in place of control statements.
 
     ```javascript
     // bad
@@ -5234,27 +5291,27 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // bad
     function getType() {
-      console.log('fetching type...');
-      // set the default type to 'no type'
-      const type = this.type || 'no type';
+      console.log(&apos;fetching type...&apos;);
+      // set the default type to &apos;no type&apos;
+      const type = this.type || &apos;no type&apos;;
 
       return type;
     }
 
     // good
     function getType() {
-      console.log('fetching type...');
+      console.log(&apos;fetching type...&apos;);
 
-      // set the default type to 'no type'
-      const type = this.type || 'no type';
+      // set the default type to &apos;no type&apos;
+      const type = this.type || &apos;no type&apos;;
 
       return type;
     }
 
     // also good
     function getType() {
-      // set the default type to 'no type'
-      const type = this.type || 'no type';
+      // set the default type to &apos;no type&apos;
+      const type = this.type || &apos;no type&apos;;
 
       return type;
     }
@@ -5358,24 +5415,24 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     function test(){
-      console.log('test');
+      console.log(&apos;test&apos;);
     }
 
     // good
     function test() {
-      console.log('test');
+      console.log(&apos;test&apos;);
     }
 
     // bad
-    dog.set('attr',{
-      age: '1 year',
-      breed: 'Bernese Mountain Dog',
+    dog.set(&apos;attr&apos;,{
+      age: &apos;1 year&apos;,
+      breed: &apos;Bernese Mountain Dog&apos;,
     });
 
     // good
-    dog.set('attr', {
-      age: '1 year',
-      breed: 'Bernese Mountain Dog',
+    dog.set(&apos;attr&apos;, {
+      age: &apos;1 year&apos;,
+      breed: &apos;Bernese Mountain Dog&apos;,
     });
     ```
 
@@ -5395,12 +5452,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // bad
     function fight () {
-      console.log ('Swooosh!');
+      console.log (&apos;Swooosh!&apos;);
     }
 
     // good
     function fight() {
-      console.log('Swooosh!');
+      console.log(&apos;Swooosh!&apos;);
     }
     ```
 
@@ -5420,14 +5477,14 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from &apos;./AirbnbStyleGuide&apos;;
       // ...
     export default es6;
     ```
 
     ```javascript
     // bad
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from &apos;./AirbnbStyleGuide&apos;;
       // ...
     export default es6;↵
     ↵
@@ -5435,7 +5492,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // good
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from &apos;./AirbnbStyleGuide&apos;;
       // ...
     export default es6;↵
     ```
@@ -5446,46 +5503,46 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    $('#items').find('.selected').highlight().end().find('.open').updateCount();
+    $(&apos;#items&apos;).find(&apos;.selected&apos;).highlight().end().find(&apos;.open&apos;).updateCount();
 
     // bad
-    $('#items').
-      find('.selected').
+    $(&apos;#items&apos;).
+      find(&apos;.selected&apos;).
         highlight().
         end().
-      find('.open').
+      find(&apos;.open&apos;).
         updateCount();
 
     // good
-    $('#items')
-      .find('.selected')
+    $(&apos;#items&apos;)
+      .find(&apos;.selected&apos;)
         .highlight()
         .end()
-      .find('.open')
+      .find(&apos;.open&apos;)
         .updateCount();
 
     // bad
-    const leds = stage.selectAll('.led').data(data).enter().append('svg:svg').classed('led', true)
-        .attr('width', (radius + margin) * 2).append('svg:g')
-        .attr('transform', `translate(${radius + margin}, ${radius + margin})`)
+    const leds = stage.selectAll(&apos;.led&apos;).data(data).enter().append(&apos;svg:svg&apos;).classed(&apos;led&apos;, true)
+        .attr(&apos;width&apos;, (radius + margin) * 2).append(&apos;svg:g&apos;)
+        .attr(&apos;transform&apos;, `translate(${radius + margin}, ${radius + margin})`)
         .call(tron.led);
 
     // good
-    const leds = stage.selectAll('.led')
+    const leds = stage.selectAll(&apos;.led&apos;)
         .data(data)
-      .enter().append('svg:svg')
-        .classed('led', true)
-        .attr('width', (radius + margin) * 2)
-      .append('svg:g')
-        .attr('transform', `translate(${radius + margin}, ${radius + margin})`)
+      .enter().append(&apos;svg:svg&apos;)
+        .classed(&apos;led&apos;, true)
+        .attr(&apos;width&apos;, (radius + margin) * 2)
+      .append(&apos;svg:g&apos;)
+        .attr(&apos;transform&apos;, `translate(${radius + margin}, ${radius + margin})`)
         .call(tron.led);
 
     // good
-    const leds = stage.selectAll('.led').data(data);
-    const svg = leds.enter().append('svg:svg');
-    svg.classed('led', true).attr('width', (radius + margin) * 2);
-    const g = svg.append('svg:g');
-    g.attr('transform', `translate(${radius + margin}, ${radius + margin})`).call(tron.led);
+    const leds = stage.selectAll(&apos;.led&apos;).data(data);
+    const svg = leds.enter().append(&apos;svg:svg&apos;);
+    svg.classed(&apos;led&apos;, true).attr(&apos;width&apos;, (radius + margin) * 2);
+    const g = svg.append(&apos;svg:g&apos;);
+    g.attr(&apos;transform&apos;, `translate(${radius + margin}, ${radius + margin})`).call(tron.led);
     ```
 
   &lt;a name=&quot;whitespace--after-blocks&quot;&gt;&lt;/a&gt;&lt;a name=&quot;18.7&quot;&gt;&lt;/a&gt;
@@ -5684,10 +5741,10 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const foo = {clark: 'kent'};
+    const foo = {clark: &apos;kent&apos;};
 
     // good
-    const foo = { clark: 'kent' };
+    const foo = { clark: &apos;kent&apos; };
     ```
 
   &lt;a name=&quot;whitespace--max-len&quot;&gt;&lt;/a&gt;&lt;a name=&quot;18.12&quot;&gt;&lt;/a&gt;
@@ -5700,7 +5757,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     const foo = jsonData &amp;&amp; jsonData.foo &amp;&amp; jsonData.foo.bar &amp;&amp; jsonData.foo.bar.baz &amp;&amp; jsonData.foo.bar.baz.quux &amp;&amp; jsonData.foo.bar.baz.quux.xyzzy;
 
     // bad
-    $.ajax({ method: 'POST', url: 'https://airbnb.com/', data: { name: 'John' } }).done(() =&gt; console.log('Congratulations!')).fail(() =&gt; console.log('You have failed this city.'));
+    $.ajax({ method: &apos;POST&apos;, url: &apos;https://airbnb.com/&apos;, data: { name: &apos;John&apos; } }).done(() =&gt; console.log(&apos;Congratulations!&apos;)).fail(() =&gt; console.log(&apos;You have failed this city.&apos;));
 
     // good
     const foo = jsonData
@@ -5720,12 +5777,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // good
     $.ajax({
-      method: 'POST',
-      url: 'https://airbnb.com/',
-      data: { name: 'John' },
+      method: &apos;POST&apos;,
+      url: &apos;https://airbnb.com/&apos;,
+      data: { name: &apos;John&apos; },
     })
-      .done(() =&gt; console.log('Congratulations!'))
-      .fail(() =&gt; console.log('You have failed this city.'));
+      .done(() =&gt; console.log(&apos;Congratulations!&apos;))
+      .fail(() =&gt; console.log(&apos;You have failed this city.&apos;));
     ```
 
   &lt;a name=&quot;whitespace--block-spacing&quot;&gt;&lt;/a&gt;
@@ -5760,13 +5817,13 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     obj[foo ]
-    obj[ 'foo']
+    obj[ &apos;foo&apos;]
     const x = {[ b ]: a}
     obj[foo[ bar ]]
 
     // good
     obj[foo]
-    obj['foo']
+    obj[&apos;foo&apos;]
     const x = { [b]: a }
     obj[foo[bar]]
     ```
@@ -5852,18 +5909,18 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // bad
     const hero = {
-        firstName: 'Ada'
-      , lastName: 'Lovelace'
+        firstName: &apos;Ada&apos;
+      , lastName: &apos;Lovelace&apos;
       , birthYear: 1815
-      , superPower: 'computers'
+      , superPower: &apos;computers&apos;
     };
 
     // good
     const hero = {
-      firstName: 'Ada',
-      lastName: 'Lovelace',
+      firstName: &apos;Ada&apos;,
+      lastName: &apos;Lovelace&apos;,
       birthYear: 1815,
-      superPower: 'computers',
+      superPower: &apos;computers&apos;,
     };
     ```
 
@@ -5875,41 +5932,41 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```diff
     // bad - git diff without trailing comma
     const hero = {
-         firstName: 'Florence',
-    -    lastName: 'Nightingale'
-    +    lastName: 'Nightingale',
-    +    inventorOf: ['coxcomb chart', 'modern nursing']
+         firstName: &apos;Florence&apos;,
+    -    lastName: &apos;Nightingale&apos;
+    +    lastName: &apos;Nightingale&apos;,
+    +    inventorOf: [&apos;coxcomb chart&apos;, &apos;modern nursing&apos;]
     };
 
     // good - git diff with trailing comma
     const hero = {
-         firstName: 'Florence',
-         lastName: 'Nightingale',
-    +    inventorOf: ['coxcomb chart', 'modern nursing'],
+         firstName: &apos;Florence&apos;,
+         lastName: &apos;Nightingale&apos;,
+    +    inventorOf: [&apos;coxcomb chart&apos;, &apos;modern nursing&apos;],
     };
     ```
 
     ```javascript
     // bad
     const hero = {
-      firstName: 'Dana',
-      lastName: 'Scully'
+      firstName: &apos;Dana&apos;,
+      lastName: &apos;Scully&apos;
     };
 
     const heroes = [
-      'Batman',
-      'Superman'
+      &apos;Batman&apos;,
+      &apos;Superman&apos;
     ];
 
     // good
     const hero = {
-      firstName: 'Dana',
-      lastName: 'Scully',
+      firstName: &apos;Dana&apos;,
+      lastName: &apos;Scully&apos;,
     };
 
     const heroes = [
-      'Batman',
-      'Superman',
+      &apos;Batman&apos;,
+      &apos;Superman&apos;,
     ];
 
     // bad
@@ -5976,7 +6033,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad - raises exception
     const luke = {}
     const leia = {}
-    [luke, leia].forEach((jedi) =&gt; jedi.father = 'vader')
+    [luke, leia].forEach((jedi) =&gt; jedi.father = &apos;vader&apos;)
 
     // bad - raises exception
     const reaction = &quot;No! That’s impossible!&quot;
@@ -5988,18 +6045,18 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     // bad - returns `undefined` instead of the value on the next line - always happens when `return` is on a line by itself because of ASI!
     function foo() {
       return
-        'search your feelings, you know it to be foo'
+        &apos;search your feelings, you know it to be foo&apos;
     }
 
     // good
     const luke = {};
     const leia = {};
     [luke, leia].forEach((jedi) =&gt; {
-      jedi.father = 'vader';
+      jedi.father = &apos;vader&apos;;
     });
 
     // good
-    const reaction = 'No! That’s impossible!';
+    const reaction = &apos;No! That’s impossible!&apos;;
     (async function meanwhileOnTheFalcon() {
       // handle `leia`, `lando`, `chewie`, `r2`, `c3p0`
       // ...
@@ -6007,7 +6064,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // good
     function foo() {
-      return 'search your feelings, you know it to be foo';
+      return &apos;search your feelings, you know it to be foo&apos;;
     }
     ```
 
@@ -6030,7 +6087,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     const totalScore = new String(this.reviewScore); // typeof totalScore is &quot;object&quot; not &quot;string&quot;
 
     // bad
-    const totalScore = this.reviewScore + ''; // invokes this.reviewScore.valueOf()
+    const totalScore = this.reviewScore + &apos;&apos;; // invokes this.reviewScore.valueOf()
 
     // bad
     const totalScore = this.reviewScore.toString(); // isn’t guaranteed to return a string
@@ -6045,7 +6102,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     &gt; Why? The `parseInt` function produces an integer value dictated by interpretation of the contents of the string argument according to the specified radix. Leading whitespace in string is ignored. If radix is `undefined` or `0`, it is assumed to be `10` except when the number begins with the character pairs `0x` or `0X`, in which case a radix of 16 is assumed. This differs from ECMAScript 3, which merely discouraged (but allowed) octal interpretation. Many implementations have not adopted this behavior as of 2013. And, because older browsers must be supported, always specify a radix.
 
     ```javascript
-    const inputValue = '4';
+    const inputValue = &apos;4&apos;;
 
     // bad
     const val = new Number(inputValue);
@@ -6147,7 +6204,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     }
 
     const bad = new user({
-      name: 'nope',
+      name: &apos;nope&apos;,
     });
 
     // good
@@ -6158,7 +6215,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     }
 
     const good = new User({
-      name: 'yup',
+      name: &apos;yup&apos;,
     });
     ```
 
@@ -6169,17 +6226,17 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    this.__firstName__ = 'Panda';
-    this.firstName_ = 'Panda';
-    this._firstName = 'Panda';
+    this.__firstName__ = &apos;Panda&apos;;
+    this.firstName_ = &apos;Panda&apos;;
+    this._firstName = &apos;Panda&apos;;
 
     // good
-    this.firstName = 'Panda';
+    this.firstName = &apos;Panda&apos;;
 
     // good, in environments where WeakMaps are available
     // see https://kangax.github.io/compat-table/es6/#test-WeakMap
     const firstNames = new WeakMap();
-    firstNames.set(this, 'Panda');
+    firstNames.set(this, &apos;Panda&apos;);
     ```
 
   &lt;a name=&quot;naming--self-this&quot;&gt;&lt;/a&gt;&lt;a name=&quot;22.5&quot;&gt;&lt;/a&gt;
@@ -6228,21 +6285,21 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     // in some other file
     // bad
-    import CheckBox from './checkBox'; // PascalCase import/export, camelCase filename
-    import FortyTwo from './FortyTwo'; // PascalCase import/filename, camelCase export
-    import InsideDirectory from './InsideDirectory'; // PascalCase import/filename, camelCase export
+    import CheckBox from &apos;./checkBox&apos;; // PascalCase import/export, camelCase filename
+    import FortyTwo from &apos;./FortyTwo&apos;; // PascalCase import/filename, camelCase export
+    import InsideDirectory from &apos;./InsideDirectory&apos;; // PascalCase import/filename, camelCase export
 
     // bad
-    import CheckBox from './check_box'; // PascalCase import/export, snake_case filename
-    import forty_two from './forty_two'; // snake_case import/filename, camelCase export
-    import inside_directory from './inside_directory'; // snake_case import, camelCase export
-    import index from './inside_directory/index'; // requiring the index file explicitly
-    import insideDirectory from './insideDirectory/index'; // requiring the index file explicitly
+    import CheckBox from &apos;./check_box&apos;; // PascalCase import/export, snake_case filename
+    import forty_two from &apos;./forty_two&apos;; // snake_case import/filename, camelCase export
+    import inside_directory from &apos;./inside_directory&apos;; // snake_case import, camelCase export
+    import index from &apos;./inside_directory/index&apos;; // requiring the index file explicitly
+    import insideDirectory from &apos;./insideDirectory/index&apos;; // requiring the index file explicitly
 
     // good
-    import CheckBox from './CheckBox'; // PascalCase export/import/filename
-    import fortyTwo from './fortyTwo'; // camelCase export/import/filename
-    import insideDirectory from './insideDirectory'; // camelCase export/import/directory name/implicit &quot;index&quot;
+    import CheckBox from &apos;./CheckBox&apos;; // PascalCase export/import/filename
+    import fortyTwo from &apos;./fortyTwo&apos;; // camelCase export/import/filename
+    import insideDirectory from &apos;./insideDirectory&apos;; // camelCase export/import/directory name/implicit &quot;index&quot;
     // ^ supports both insideDirectory.js and insideDirectory/index.js
     ```
 
@@ -6276,7 +6333,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    import SmsContainer from './containers/SmsContainer';
+    import SmsContainer from &apos;./containers/SmsContainer&apos;;
 
     // bad
     const HttpRequests = [
@@ -6284,7 +6341,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ];
 
     // good
-    import SMSContainer from './containers/SMSContainer';
+    import SMSContainer from &apos;./containers/SMSContainer&apos;;
 
     // good
     const HTTPRequests = [
@@ -6297,7 +6354,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ];
 
     // best
-    import TextMessageContainer from './containers/TextMessageContainer';
+    import TextMessageContainer from &apos;./containers/TextMessageContainer&apos;;
 
     // best
     const requests = [
@@ -6314,32 +6371,32 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const PRIVATE_VARIABLE = 'should not be unnecessarily uppercased within a file';
+    const PRIVATE_VARIABLE = &apos;should not be unnecessarily uppercased within a file&apos;;
 
     // bad
-    export const THING_TO_BE_CHANGED = 'should obviously not be uppercased';
+    export const THING_TO_BE_CHANGED = &apos;should obviously not be uppercased&apos;;
 
     // bad
-    export let REASSIGNABLE_VARIABLE = 'do not use let with uppercase variables';
+    export let REASSIGNABLE_VARIABLE = &apos;do not use let with uppercase variables&apos;;
 
     // ---
 
     // allowed but does not supply semantic value
-    export const apiKey = 'SOMEKEY';
+    export const apiKey = &apos;SOMEKEY&apos;;
 
     // better in most cases
-    export const API_KEY = 'SOMEKEY';
+    export const API_KEY = &apos;SOMEKEY&apos;;
 
     // ---
 
     // bad - unnecessarily uppercases key while adding no semantic value
     export const MAPPING = {
-      KEY: 'value'
+      KEY: &apos;value&apos;
     };
 
     // good
     export const MAPPING = {
-      key: 'value',
+      key: &apos;value&apos;,
     };
     ```
 
@@ -6351,7 +6408,7 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
   - [24.1](#accessors--not-required) Accessor functions for properties are not required.
 
   &lt;a name=&quot;accessors--no-getters-setters&quot;&gt;&lt;/a&gt;&lt;a name=&quot;23.2&quot;&gt;&lt;/a&gt;
-  - [24.2](#accessors--no-getters-setters) Do not use JavaScript getters/setters as they cause unexpected side effects and are harder to test, maintain, and reason about. Instead, if you do make accessor functions, use `getVal()` and `setVal('hello')`.
+  - [24.2](#accessors--no-getters-setters) Do not use JavaScript getters/setters as they cause unexpected side effects and are harder to test, maintain, and reason about. Instead, if you do make accessor functions, use `getVal()` and `setVal(&apos;hello&apos;)`.
 
     ```javascript
     // bad
@@ -6398,8 +6455,8 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     class Jedi {
       constructor(options = {}) {
-        const lightsaber = options.lightsaber || 'blue';
-        this.set('lightsaber', lightsaber);
+        const lightsaber = options.lightsaber || &apos;blue&apos;;
+        this.set(&apos;lightsaber&apos;, lightsaber);
       }
 
       set(key, val) {
@@ -6421,11 +6478,11 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    $(this).trigger('listingUpdated', listing.id);
+    $(this).trigger(&apos;listingUpdated&apos;, listing.id);
 
     // ...
 
-    $(this).on('listingUpdated', (e, listingID) =&gt; {
+    $(this).on(&apos;listingUpdated&apos;, (e, listingID) =&gt; {
       // do something with listingID
     });
     ```
@@ -6434,11 +6491,11 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // good
-    $(this).trigger('listingUpdated', { listingID: listing.id });
+    $(this).trigger(&apos;listingUpdated&apos;, { listingID: listing.id });
 
     // ...
 
-    $(this).on('listingUpdated', (e, data) =&gt; {
+    $(this).on(&apos;listingUpdated&apos;, (e, data) =&gt; {
       // do something with data.listingID
     });
     ```
@@ -6452,13 +6509,13 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    const sidebar = $('.sidebar');
+    const sidebar = $(&apos;.sidebar&apos;);
 
     // good
-    const $sidebar = $('.sidebar');
+    const $sidebar = $(&apos;.sidebar&apos;);
 
     // good
-    const $sidebarBtn = $('.sidebar-btn');
+    const $sidebarBtn = $(&apos;.sidebar-btn&apos;);
     ```
 
   &lt;a name=&quot;jquery--cache&quot;&gt;&lt;/a&gt;&lt;a name=&quot;25.2&quot;&gt;&lt;/a&gt;
@@ -6467,49 +6524,49 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
     ```javascript
     // bad
     function setSidebar() {
-      $('.sidebar').hide();
+      $(&apos;.sidebar&apos;).hide();
 
       // ...
 
-      $('.sidebar').css({
-        'background-color': 'pink',
+      $(&apos;.sidebar&apos;).css({
+        &apos;background-color&apos;: &apos;pink&apos;,
       });
     }
 
     // good
     function setSidebar() {
-      const $sidebar = $('.sidebar');
+      const $sidebar = $(&apos;.sidebar&apos;);
       $sidebar.hide();
 
       // ...
 
       $sidebar.css({
-        'background-color': 'pink',
+        &apos;background-color&apos;: &apos;pink&apos;,
       });
     }
     ```
 
   &lt;a name=&quot;jquery--queries&quot;&gt;&lt;/a&gt;&lt;a name=&quot;25.3&quot;&gt;&lt;/a&gt;
-  - [26.3](#jquery--queries) For DOM queries use Cascading `$('.sidebar ul')` or parent &gt; child `$('.sidebar &gt; ul')`. [jsPerf](https://web.archive.org/web/20200414183810/https://jsperf.com/jquery-find-vs-context-sel/16)
+  - [26.3](#jquery--queries) For DOM queries use Cascading `$(&apos;.sidebar ul&apos;)` or parent &gt; child `$(&apos;.sidebar &gt; ul&apos;)`. [jsPerf](https://web.archive.org/web/20200414183810/https://jsperf.com/jquery-find-vs-context-sel/16)
 
   &lt;a name=&quot;jquery--find&quot;&gt;&lt;/a&gt;&lt;a name=&quot;25.4&quot;&gt;&lt;/a&gt;
   - [26.4](#jquery--find) Use `find` with scoped jQuery object queries.
 
     ```javascript
     // bad
-    $('ul', '.sidebar').hide();
+    $(&apos;ul&apos;, &apos;.sidebar&apos;).hide();
 
     // bad
-    $('.sidebar').find('ul').hide();
+    $(&apos;.sidebar&apos;).find(&apos;ul&apos;).hide();
 
     // good
-    $('.sidebar ul').hide();
+    $(&apos;.sidebar ul&apos;).hide();
 
     // good
-    $('.sidebar &gt; ul').hide();
+    $(&apos;.sidebar &gt; ul&apos;).hide();
 
     // good
-    $sidebar.find('ul').hide();
+    $sidebar.find(&apos;ul&apos;).hide();
     ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -6563,12 +6620,12 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    isNaN('1.2'); // false
-    isNaN('1.2.3'); // true
+    isNaN(&apos;1.2&apos;); // false
+    isNaN(&apos;1.2.3&apos;); // true
 
     // good
-    Number.isNaN('1.2.3'); // false
-    Number.isNaN(Number('1.2.3')); // true
+    Number.isNaN(&apos;1.2.3&apos;); // false
+    Number.isNaN(Number(&apos;1.2.3&apos;)); // true
     ```
 
   &lt;a name=&quot;standard-library--isfinite&quot;&gt;&lt;/a&gt;
@@ -6580,11 +6637,11 @@ You can download the bundled versions of it as a HTML file, or PDF this style gu
 
     ```javascript
     // bad
-    isFinite('2e3'); // true
+    isFinite(&apos;2e3&apos;); // true
 
     // good
-    Number.isFinite('2e3'); // false
-    Number.isFinite(parseInt('2e3', 10)); // true
+    Number.isFinite(&apos;2e3&apos;); // false
+    Number.isFinite(parseInt(&apos;2e3&apos;, 10)); // true
     ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -6719,7 +6776,7 @@ Copyright (c) 2012 Airbnb
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
+&apos;Software&apos;), to deal in the Software without restriction, including
 without limitation the rights to use, copy, modify, merge, publish,
 distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
@@ -6728,7 +6785,7 @@ the following conditions:
 The above copyright notice and this permission notice shall be
 included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+THE SOFTWARE IS PROVIDED &apos;AS IS&apos;, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY

@@ -2,17 +2,22 @@
 layout: default
 ---
 <div class="card">
-        <div class="col-md-8 offset-md-2 offset-md-right">
-                <h1>Author : {{ page.name }}</h1>
-                <img src="{{site.url}}{{site.baseurl}}/assets/img/authors/{{ page.avatar}}" class="author-profile-img" />
-                <p>{{ page.bio }}</p>
-
-                <h2>Post by this author</h2>
-                {%- assign author_posts = site.posts
-                  | where: "author", page.username
-                -%}
-                {%- for post in author_posts -%}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {%- endfor -%}
-         </div>
-    </div>
+  <div class="col-md-8 offset-md-2 offset-md-right">
+    <h1>Author : {{ page.name }}</h1>
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/authors/{{ page.avatar}}" class="author-profile-img" />
+    <p>&nbsp;</p>
+    <p>{{ content }}</p>
+    <p>&nbsp;</p>
+    <p>
+      <a href="mailto:{{page.social.email}}"><i class="fas fa-envelope"></i> {{ page.social.email }}</a> &bull;
+      <a href="https://discordapp.com/users/{{ page.social.discord }}"><i class="fab fa-discord"></i> {{ page.social.discord }}</a> &bull;
+      <a href="https://github.com/{{ page.social.github }}"><i class="fab fa-github"></i> @{{ page.social.github }}</a> &bull;
+      <a href="https://twitter.com/{{ page.social.twitter }}"><i class="fab fa-twitter"></i> @{{page.social.twitter}}</a>
+    </p>
+    <h2>Post by this author</h2>
+    {%- assign author_posts = site.posts | where: "author", page.username -%}
+    {%- for post in author_posts -%}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {%- endfor -%}
+  </div>
+</div>
