@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "How To Name Your Branches - The Method I Use"
+title:  "How to Install Node.js as a Non-Root User Using NVM: A Step-by-Step Guide"
+summary: "using Node Version Manager (nvm), you can easily install and manage multiple versions of Node.js as a non-root user."
 author: smokeyoy
 date: '2023-03-03'
 category: ['nodejs', 'npm', 'javascript']
